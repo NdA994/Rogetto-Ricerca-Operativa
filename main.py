@@ -4,8 +4,8 @@ import math
 
 # random network generation
 
-n = 3 + math.ceil(30 * np.random.random())  # number of nodes
-
+n = 3 + 8  # number of nodes
+print(n)
 thres = 0.4     # density of network
 thresdem = 0.8  # density of demand mesh
 
