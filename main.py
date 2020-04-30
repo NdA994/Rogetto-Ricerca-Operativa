@@ -42,3 +42,4 @@ with open('./dati/01_commodities.csv', newline='') as csvfile:
 for row in comm:
     print(nx.shortest_path_length(G, source=(row[0]), target=row[1]))
 
+
