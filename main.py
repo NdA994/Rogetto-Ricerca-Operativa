@@ -102,4 +102,5 @@ p.setObjective(xp.Sum(c[i, j] * x[i, j] for (i, j) in arcs))
 # p = xp.problem(f, x, flow, capacity,
 #                xp.Sum(c[i, j] * x[i, j] for (i, j) in arcs))
 
+
 p.solve()
