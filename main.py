@@ -39,7 +39,12 @@ with open('./dati/01_commodities.csv', newline='') as csvfile:
 #print(node[0][0])
 #print([p for p in nx.all_shortest_paths(G, source=node[0][0], target=node[5][0])])
 
+#calcolo Lk
 for row in comm:
-    print(nx.shortest_path_length(G, source=(row[0]), target=row[1]))
-
-
+    if int(row[3]) == 1:
+        Lk = nx.shortest_path_length(G, source=(row[0]), target=row[1])+1
+        print(Lk)
+    if int(row[3]) == 2:
+        pass
+    if int(row[3]) == 3:
+        pass
