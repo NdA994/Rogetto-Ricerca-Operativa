@@ -3,9 +3,6 @@ import os
 
 import networkx as nx
 
-#TO DO: Controllare che tutti i dati dai file vengano raccolti per bene.
-#TO DO: Controllare che il calcolo di Lk sia fatto bene.
-#TO DO: Controllare che il calcolo dei simple path sia fatto bene.
 #TO DO: Vedere se i punti di articolazione possono aiutare sotto il punto di vista computazionale
 #TO DO: Implementazione brutale per individuare tutte le rotte per le commodities senza alcun tipo di controllo sulla banda
 #TO DO: Salvataggio dati di precalcolo
@@ -48,6 +45,8 @@ with open('./dati/01_commodities.csv', newline='') as csvfile:
         comm.append(row)
         i = i+1
 
+
+#TO DO: correggere errore su file resPath
 i = 0
 os.remove("./out1/resPath.csv")
 #calcolo Lk
@@ -61,57 +60,65 @@ for row in comm:
         resPath = csv.writer(csvPath, delimiter=' ', quoting=csv.QUOTE_MINIMAL)
         if int(row[3]) == 1:
             #print("Priorità 1")
-            #print(Lk)
+            print(Lk)
             #print(nx.shortest_path(implementazione calcolo path ammissibiliG, source=(row[0]), target=row[1]))
             for path in nx.all_simple_paths(G, source=(row[0]), target=row[1], cutoff=Lk+1):
-                #print(path)
+                print(path)
                 resPath.writerow(path)
-                all_paths.append(path)
+                #all_paths.append(path)
                 #print(len(all_paths))
 
-    if int(row[3]) == 2:
-        print("Priorità 2")
-        if Lk < 3:
-            print(Lk)
-            #print(nx.shortest_path(G, source=(row[0]), target=row[1]))
-            for path in nx.all_simple_paths(G, source=(row[0]), target=row[1], cutoff=Lk*2):
-                print(path)
-        if Lk < 5:
-            print(Lk)
-            #print(nx.shortest_path(G, source=(row[0]), target=row[1]))
-            for path in nx.all_simple_paths(G, source=(row[0]), target=row[1], cutoff=int(Lk*1.5)):
-                print(path)
-        if Lk < 11:
-            print(Lk)
-            #print(nx.shortest_path(G, source=(row[0]), target=row[1]))
-            for path in nx.all_simple_paths(G, source=(row[0]), target=row[1], cutoff=int(Lk*1.5)):
-                print(path)
-        else:
-            print(Lk)
-            #print(nx.shortest_path(G, source=(row[0]), target=row[1]))
-            for path in nx.all_simple_paths(G, source=(row[0]), target=row[1], cutoff=Lk+2):
-                print(path)
+        if int(row[3]) == 2:
+            print("Priorità 2")
+            if Lk < 3:
+                print(Lk)
+                #print(nx.shortest_path(G, source=(row[0]), target=row[1]))
+                for path in nx.all_simple_paths(G, source=(row[0]), target=row[1], cutoff=Lk*2):
+                    resPath.writerow(path)
+                    print(path)
+            if Lk < 5:
+                print(Lk)
+                #print(nx.shortest_path(G, source=(row[0]), target=row[1]))
+                for path in nx.all_simple_paths(G, source=(row[0]), target=row[1], cutoff=int(Lk*1.5)):
+                    resPath.writerow(path)
+                    print(path)
+            if Lk < 11:
+                print(Lk)
+                #print(nx.shortest_path(G, source=(row[0]), target=row[1]))
+                for path in nx.all_simple_paths(G, source=(row[0]), target=row[1], cutoff=int(Lk*1.5)):
+                    resPath.writerow(path)
+                    print(path)
+            else:
+                print(Lk)
+                #print(nx.shortest_path(G, source=(row[0]), target=row[1]))
+                for path in nx.all_simple_paths(G, source=(row[0]), target=row[1], cutoff=Lk+2):
+                    resPath.writerow(path)
+                    print(path)
 
-    if int(row[3]) == 3:
-        print("Priorità 3")
-        if Lk < 3:
-            print(Lk)
-            #print(nx.shortest_path(G, source=(row[0]), target=row[1]))
-            for path in nx.all_simple_paths(G, source=(row[0]), target=row[1], cutoff=Lk*2):
-                print(path)
-        if Lk < 5:
-            print(Lk)
-            #print(nx.shortest_path(G, source=(row[0]), target=row[1]))
-            for path in nx.all_simple_paths(G, source=(row[0]), target=row[1], cutoff=Lk*2):
-                print(path)
-        if Lk < 11:
-            print(Lk)
-            #print(nx.shortest_path(G, source=(row[0]), target=row[1]))
-            for path in nx.all_simple_paths(G, source=(row[0]), target=row[1], cutoff=int(Lk*1.5)):
-                print(path)
-        else:
-            print(Lk)
-            #print(nx.shortest_path(G, source=(row[0]), target=row[1]))
-            for path in nx.all_simple_paths(G, source=(row[0]), target=row[1], cutoff=Lk+2):
-                print(path)
+        if int(row[3]) == 3:
+            print("Priorità 3")
+            if Lk < 3:
+                print(Lk)
+                #print(nx.shortest_path(G, source=(row[0]), target=row[1]))
+                for path in nx.all_simple_paths(G, source=(row[0]), target=row[1], cutoff=Lk*2):
+                    resPath.writerow(path)
+                    print(path)
+            if Lk < 5:
+                print(Lk)
+                #print(nx.shortest_path(G, source=(row[0]), target=row[1]))
+                for path in nx.all_simple_paths(G, source=(row[0]), target=row[1], cutoff=Lk*2):
+                    resPath.writerow(path)
+                    print(path)
+            if Lk < 11:
+                print(Lk)
+                #print(nx.shortest_path(G, source=(row[0]), target=row[1]))
+                for path in nx.all_simple_paths(G, source=(row[0]), target=row[1], cutoff=int(Lk*1.5)):
+                    resPath.writerow(path)
+                    print(path)
+            else:
+                print(Lk)
+                #print(nx.shortest_path(G, source=(row[0]), target=row[1]))
+                for path in nx.all_simple_paths(G, source=(row[0]), target=row[1], cutoff=Lk+2):
+                    resPath.writerow(path)
+                    print(path)
     i = i+1
