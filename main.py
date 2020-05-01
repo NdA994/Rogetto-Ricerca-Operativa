@@ -50,7 +50,7 @@ for row in comm:
         pass
         print("Priorità 1")
         print(Lk)
-        #print(nx.shortest_path(G, source=(row[0]), target=row[1]))
+        #print(nx.shortest_path(implementazione calcolo path ammissibiliG, source=(row[0]), target=row[1]))
         for path in nx.all_simple_paths(G, source=(row[0]), target=row[1], cutoff=Lk+1):
             print(path)
 
@@ -78,7 +78,7 @@ for row in comm:
                 print(path)
 
     if int(row[3]) == 3:
-        print("Priorità 2")
+        print("Priorità 3")
         if Lk < 3:
             print(Lk)
             #print(nx.shortest_path(G, source=(row[0]), target=row[1]))
