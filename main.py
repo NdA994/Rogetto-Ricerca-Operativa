@@ -1,4 +1,6 @@
 import csv
+import os
+
 import networkx as nx
 
 #TO DO: Controllare che tutti i dati dai file vengano raccolti per bene.
@@ -38,24 +40,34 @@ with open('./dati/01_topology.csv', newline='') as csvfile:
 #Parametro 2: ID Destinazione
 #Parametro 3: Banda richiesta
 #Parametro 4: Priotrità
+i = 0
 with open('./dati/01_commodities.csv', newline='') as csvfile:
     topology = csv.reader(csvfile, delimiter=' ')
     for row in topology:
+        row[4] = i
         comm.append(row)
+        i = i+1
 
+i = 0
+os.remove("./out1/resPath.csv")
 #calcolo Lk
 for row in comm:
     all_paths = []
-    Lk = nx.shortest_path_length(G, source=(row[0]), target=row[1])
-    if int(row[3]) == 1:
-        pass
-        #print("Priorità 1")
-        #print(Lk)
-        #print(nx.shortest_path(implementazione calcolo path ammissibiliG, source=(row[0]), target=row[1]))
-        for path in nx.all_simple_paths(G, source=(row[0]), target=row[1], cutoff=Lk+1):
-            print(path)
-            all_paths.append(path)
-        print(len(all_paths))
+    with open('./out1/resPath.csv', 'a+', newline='') as csvRes:
+        Lk = nx.shortest_path_length(G, source=(row[0]), target=row[1])
+        resPath = csv.writer(csvRes, delimiter=' ', quoting=csv.QUOTE_MINIMAL)
+        resPath.writerow([i, Lk])
+    with open('./out1/'+str(i)+'.csv', 'w', newline='') as csvPath:
+        resPath = csv.writer(csvPath, delimiter=' ', quoting=csv.QUOTE_MINIMAL)
+        if int(row[3]) == 1:
+            #print("Priorità 1")
+            #print(Lk)
+            #print(nx.shortest_path(implementazione calcolo path ammissibiliG, source=(row[0]), target=row[1]))
+            for path in nx.all_simple_paths(G, source=(row[0]), target=row[1], cutoff=Lk+1):
+                #print(path)
+                resPath.writerow(path)
+                all_paths.append(path)
+                #print(len(all_paths))
 
     if int(row[3]) == 2:
         print("Priorità 2")
@@ -102,3 +114,4 @@ for row in comm:
             #print(nx.shortest_path(G, source=(row[0]), target=row[1]))
             for path in nx.all_simple_paths(G, source=(row[0]), target=row[1], cutoff=Lk+2):
                 print(path)
+    i = i+1
