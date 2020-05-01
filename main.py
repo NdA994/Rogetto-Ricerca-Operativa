@@ -1,6 +1,13 @@
 import csv
 import networkx as nx
 
+#TO DO: Controllare che tutti i dati dai file vengano raccolti per bene.
+#TO DO: Controllare che il calcolo di Lk sia fatto bene.
+#TO DO: Controllare che il calcolo dei simple path sia fatto bene.
+#TO DO: Vedere se i punti di articolazione possono aiutare sotto il punto di vista computazionale
+#TO DO: Implementazione brutale per individuare tutte le rotte per le commodities senza alcun tipo di controllo sulla banda
+#TO DO: Salvataggio dati di precalcolo
+#TO DO: Sistemare l'esecuzione del programma. Funzioni e cose varie.
 
 G = nx.DiGraph()
 node = []
@@ -36,15 +43,18 @@ with open('./dati/01_commodities.csv', newline='') as csvfile:
     for row in topology:
         comm.append(row)
 
-#print(node[0][0])
-#print([p for p in nx.all_shortest_paths(G, source=node[0][0], target=node[5][0])])
-
 #calcolo Lk
 for row in comm:
+    Lk = nx.shortest_path_length(G, source=(row[0]), target=row[1])
     if int(row[3]) == 1:
-        Lk = nx.shortest_path_length(G, source=(row[0]), target=row[1])+1
         print(Lk)
+        print(nx.shortest_path(G, source=(row[0]), target=row[1]))
+        for path in nx.all_simple_paths(G, source=(row[0]), target=row[1], cutoff=Lk+1):
+            print(path)
+
     if int(row[3]) == 2:
-        pass
+        print("ERRORE")
     if int(row[3]) == 3:
-        pass
+        print("ERRORE")
+
+#print(len(comm))
