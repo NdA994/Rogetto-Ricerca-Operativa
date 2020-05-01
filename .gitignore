@@ -3,6 +3,8 @@
 # Edit at https://www.gitignore.io/?templates=python,intellij+all
 
 out1/
+out2/
+out3/
 
 ### Intellij+all ###
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and WebStorm
