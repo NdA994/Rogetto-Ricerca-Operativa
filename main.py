@@ -45,28 +45,29 @@ with open('./dati/01_commodities.csv', newline='') as csvfile:
         comm.append(row)
         i = i+1
 
-
+#TO DO: controllare e completare questa parte
 #TO DO: correggere errore su file resPath
 i = 0
+#TO DO: aggiungere try catch
 os.remove("./out1/resPath.csv")
 #calcolo Lk
 for row in comm:
     all_paths = []
-    with open('./out1/resPath.csv', 'a+', newline='') as csvRes:
-        Lk = nx.shortest_path_length(G, source=(row[0]), target=row[1])
-        resPath = csv.writer(csvRes, delimiter=' ', quoting=csv.QUOTE_MINIMAL)
-        resPath.writerow([i, Lk])
+    Lk = nx.shortest_path_length(G, source=(row[0]), target=row[1])
     with open('./out1/'+str(i)+'.csv', 'w', newline='') as csvPath:
         resPath = csv.writer(csvPath, delimiter=' ', quoting=csv.QUOTE_MINIMAL)
         if int(row[3]) == 1:
-            #print("Priorità 1")
-            print(Lk)
+            print("Priorità 1")
+            #print(Lk)
             #print(nx.shortest_path(implementazione calcolo path ammissibiliG, source=(row[0]), target=row[1]))
             for path in nx.all_simple_paths(G, source=(row[0]), target=row[1], cutoff=Lk+1):
                 print(path)
                 resPath.writerow(path)
-                #all_paths.append(path)
-                #print(len(all_paths))
+                all_paths.append(path)
+            with open('./out1/resPath.csv', 'a+', newline='') as csvRes:
+                csvRes = csv.writer(csvRes, delimiter=' ', quoting=csv.QUOTE_MINIMAL)
+                print(len(all_paths))
+                csvRes.writerow([i, len(all_paths)])
 
         if int(row[3]) == 2:
             print("Priorità 2")
