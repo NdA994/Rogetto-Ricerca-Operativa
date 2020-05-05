@@ -52,3 +52,8 @@ for row in pres:
     comm.remove(comm[int(row[0])])
 print(comm)
 print(pres)
+
+with open('./preSolve2/05_giorno_commodities.csv', 'w', newline='') as csvPath:
+    resPath = csv.writer(csvPath, delimiter=' ', quoting=csv.QUOTE_MINIMAL)
+    for row in comm:
+        resPath.writerow(row)
