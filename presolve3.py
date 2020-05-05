@@ -3,8 +3,6 @@ import os
 
 import networkx as nx
 
-#TO DO: Sistemare l'esecuzione del programma. Funzioni e cose varie.
-
 G = nx.DiGraph()
 node = []
 edge = []
@@ -42,8 +40,6 @@ with open('./dati/05_sera_commodities.csv', newline='') as csvfile:
         comm.append(row)
         i = i+1
 
-#TO DO: controllare e completare questa parte
-#TO DO: correggere errore su file resPath
 i = 0
 
 if os.path.exists("./out3/resPath.csv"):
