@@ -3,9 +3,6 @@ import os
 
 import networkx as nx
 
-#TO DO: Vedere se i punti di articolazione possono aiutare sotto il punto di vista computazionale
-#TO DO: Implementazione brutale per individuare tutte le rotte per le commodities senza alcun tipo di controllo sulla banda
-#TO DO: Salvataggio dati di precalcolo
 #TO DO: Sistemare l'esecuzione del programma. Funzioni e cose varie.
 
 G = nx.DiGraph()
