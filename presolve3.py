@@ -45,8 +45,9 @@ with open('./dati/05_sera_commodities.csv', newline='') as csvfile:
 #TO DO: controllare e completare questa parte
 #TO DO: correggere errore su file resPath
 i = 0
-#TO DO: aggiungere try catch
-#os.remove("./out3/resPath.csv")
+
+if os.path.exists("./out3/resPath.csv"):
+    os.remove("./out3/resPath.csv")
 #calcolo Lk
 for row in comm:
     all_paths = []
