@@ -55,7 +55,7 @@ for row in pres:
     for count in range(0, len(edge)):
         if edge[count][0] == comm[int(row[0])][0] and edge[count][1] in comm[int(row[0])][1]:
             edge[count][3] = edge[count][3] + int(comm[int(row[0])][2])
-            print("trovato "+ str(count))
+            print("trovato "   + str(count))
 
     comm.remove(comm[int(row[0])])
 
