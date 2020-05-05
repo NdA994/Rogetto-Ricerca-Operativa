@@ -48,12 +48,20 @@ with open('./out2/resPath.csv', newline='') as csvfile:
         if int(row[1]) == 1:
             pres.append(row)
 
+edge = [row + [0] for row in edge]
+
+#TODO: corregere questa parte
 for row in pres:
+    for count in range(0, len(edge)):
+        if edge[count][0] == comm[int(row[0])][0] and edge[count][1] in comm[int(row[0])][1]:
+            edge[count][3] = edge[count][3] + int(comm[int(row[0])][2])
+            print("trovato "+ str(count))
+
     comm.remove(comm[int(row[0])])
-print(comm)
-print(pres)
 
 with open('./preSolve2/05_giorno_commodities.csv', 'w', newline='') as csvPath:
     resPath = csv.writer(csvPath, delimiter=' ', quoting=csv.QUOTE_MINIMAL)
     for row in comm:
         resPath.writerow(row)
+
+print(edge)
