@@ -46,8 +46,8 @@ with open('./dati/01_commodities.csv', newline='') as csvfile:
 #TO DO: correggere errore su file resPath
 i = 0
 
-if os.path.exists("./out3/resPath.csv"):
-    os.remove("./out3/resPath.csv")
+if os.path.exists("./out1/resPath.csv"):
+    os.remove("./out1/resPath.csv")
 #calcolo Lk
 for row in comm:
     all_paths = []
