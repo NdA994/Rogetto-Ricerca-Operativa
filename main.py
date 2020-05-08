@@ -70,4 +70,8 @@ with open('./preSolve2/05_giorno_commodities.csv', 'w', newline='') as csvPath:
 with open('./preSolve2/05_giorno_solution.txt', 'w', newline='') as fSolution:
     for row in pres:
         fSolution.write("Commodities numero: " + row[0] + "\n")
+        with open('./out2/' + row[0] + '.csv', newline='') as csvfile:
+            route = csv.reader(csvfile, delimiter=' ')
+            for row in route:
+                fSolution.write(str(row) + "\n")
 
