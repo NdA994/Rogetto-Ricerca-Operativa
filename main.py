@@ -1,9 +1,6 @@
 import csv
 import os
-
 import networkx as nx
-
-# TODO: Sistemare l'esecuzione del programma. Funzioni e cose varie.
 
 G = nx.DiGraph()
 node = []
@@ -65,16 +62,12 @@ for row in pres:
     comm[int(row[0])].clear()
 comm = [x for x in comm if x != []]
 
-
 with open('./preSolve2/05_giorno_commodities.csv', 'w', newline='') as csvPath:
     resPath = csv.writer(csvPath, delimiter=' ', quoting=csv.QUOTE_MINIMAL)
     for row in comm:
         resPath.writerow(row)
 
-"""
-#with open('./preSolve2/05_giorno_solution.csv', 'a+', newline='') as csvPath:
-    resPath = csv.writer(csvPath, delimiter=' ', quoting=csv.QUOTE_MINIMAL)
-    #resPath.writerow("Commodities numero: " + row[0])
-    resPath.writerow(path)
-print(len(pres))
-"""
+with open('./preSolve2/05_giorno_solution.txt', 'w', newline='') as fSolution:
+    for row in pres:
+        fSolution.write("Commodities numero: " + row[0] + "\n")
+
