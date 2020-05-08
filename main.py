@@ -3,7 +3,7 @@ import os
 
 import networkx as nx
 
-# TO DO: Sistemare l'esecuzione del programma. Funzioni e cose varie.
+# TODO: Sistemare l'esecuzione del programma. Funzioni e cose varie.
 
 G = nx.DiGraph()
 node = []
@@ -61,21 +61,18 @@ if os.path.exists('./preSolve2/05_giorno_solution.csv'):
 if os.path.exists('./preSolve2/05_giorno_commodities.csv'):
     os.remove('./preSolve2/05_giorno_commodities.csv')
 
-print(len(pres))
-print(pres)
-
 for row in pres:
     comm[int(row[0])].clear()
 comm = [x for x in comm if x != []]
 
 
-"""
-#with open('./preSolve2/05_giorno_commodities.csv', 'w', newline='') as csvPath:
+with open('./preSolve2/05_giorno_commodities.csv', 'w', newline='') as csvPath:
     resPath = csv.writer(csvPath, delimiter=' ', quoting=csv.QUOTE_MINIMAL)
     for row in comm:
         resPath.writerow(row)
 
-with open('./preSolve2/05_giorno_solution.csv', 'a+', newline='') as csvPath:
+"""
+#with open('./preSolve2/05_giorno_solution.csv', 'a+', newline='') as csvPath:
     resPath = csv.writer(csvPath, delimiter=' ', quoting=csv.QUOTE_MINIMAL)
     #resPath.writerow("Commodities numero: " + row[0])
     resPath.writerow(path)
