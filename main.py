@@ -11,6 +11,16 @@ edge = []
 comm = []
 pres = []
 
+# ARCHI
+# Parametro 1: ID commodities
+# Parametro 2: N soluzioni
+with open('./out2/resPath.csv', newline='') as csvfile:
+    topology = csv.reader(csvfile, delimiter=' ')
+    for row in topology:
+        if int(row[1]) == 1:
+            pres.append(row)
+
+
 # NODI
 # Parametro 1: ID nodo
 # Parametro 2: Nome nodo
@@ -35,6 +45,7 @@ with open('./dati/05_giorno_topology.csv', newline='') as csvfile:
 # Parametro 2: ID Destinazione
 # Parametro 3: Banda richiesta
 # Parametro 4: Priotrità
+# Parametro 5: ID Commodities
 i = 0
 with open('./dati/05_giorno_commodities.csv', newline='') as csvfile:
     topology = csv.reader(csvfile, delimiter=' ')
@@ -43,26 +54,20 @@ with open('./dati/05_giorno_commodities.csv', newline='') as csvfile:
         comm.append(row)
         i = i + 1
 
-with open('./out2/resPath.csv', newline='') as csvfile:
-    topology = csv.reader(csvfile, delimiter=' ')
-    for row in topology:
-        if int(row[1]) == 1:
-            pres.append(row)
-
-
 edge = [row + [0] for row in edge]
-#print(edge)
-#print(pres)
 
 if os.path.exists('./preSolve2/05_giorno_solution.csv'):
     os.remove('./preSolve2/05_giorno_solution.csv')
 if os.path.exists('./preSolve2/05_giorno_commodities.csv'):
     os.remove('./preSolve2/05_giorno_commodities.csv')
+
 print(len(pres))
+print(pres)
+
 for row in pres:
-    #print(row)
-    print(comm[int(row[0])])
-    #pres.append(comm[int(row[0])])
+    comm[int(row[0])].clear()
+comm = [x for x in comm if x != []]
+
 
 """
 #with open('./preSolve2/05_giorno_commodities.csv', 'w', newline='') as csvPath:
