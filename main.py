@@ -48,12 +48,6 @@ with open('./out2/resPath.csv', newline='') as csvfile:
         if int(row[1]) == 1:
             pres.append(row)
 
-"""
-#with open('./preSolve2/05_giorno_commodities.csv', 'w', newline='') as csvPath:
-    resPath = csv.writer(csvPath, delimiter=' ', quoting=csv.QUOTE_MINIMAL)
-    for row in comm:
-        resPath.writerow(row)
-"""
 
 edge = [row + [0] for row in edge]
 #print(edge)
@@ -62,8 +56,12 @@ edge = [row + [0] for row in edge]
 for row in pres:
     with open('./out2/'+row[0]+'.csv', newline='') as csvfile:
         route = csv.reader(csvfile, delimiter=' ')
-        for casa in route:
-            print(casa)
+        for path in route:
+            print(path)
+            with open('./preSolve2/05_giorno_solution.csv', 'a+', newline='') as csvPath:
+                resPath = csv.writer(csvPath, delimiter=' ', quoting=csv.QUOTE_MINIMAL)
+                resPath.writerow("Commodities numero: " + row[0])
+                resPath.writerow(path)
     comm[int(row[0])].clear()
 print(comm)
 print(len(pres))
