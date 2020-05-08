@@ -1,4 +1,5 @@
 import csv
+import os
 
 import networkx as nx
 
@@ -52,6 +53,9 @@ with open('./out2/resPath.csv', newline='') as csvfile:
 edge = [row + [0] for row in edge]
 #print(edge)
 #print(pres)
+
+if os.path.exists('./preSolve2/05_giorno_solution.csv'):
+    os.remove('./preSolve2/05_giorno_solution.csv')
 
 for row in pres:
     with open('./out2/'+row[0]+'.csv', newline='') as csvfile:
