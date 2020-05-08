@@ -48,12 +48,23 @@ with open('./out2/resPath.csv', newline='') as csvfile:
         if int(row[1]) == 1:
             pres.append(row)
 
-for row in pres:
-    comm.remove(comm[int(row[0])])
-print(comm)
-print(pres)
-
-with open('./preSolve2/05_giorno_commodities.csv', 'w', newline='') as csvPath:
+"""
+#with open('./preSolve2/05_giorno_commodities.csv', 'w', newline='') as csvPath:
     resPath = csv.writer(csvPath, delimiter=' ', quoting=csv.QUOTE_MINIMAL)
     for row in comm:
         resPath.writerow(row)
+"""
+
+edge = [row + [0] for row in edge]
+#print(edge)
+#print(pres)
+
+for row in pres:
+    with open('./out2/'+row[0]+'.csv', newline='') as csvfile:
+        route = csv.reader(csvfile, delimiter=' ')
+        for casa in route:
+            print(casa)
+    comm[int(row[0])].clear()
+print(comm)
+print(len(pres))
+

@@ -42,8 +42,8 @@ with open('./dati/05_giorno_commodities.csv', newline='') as csvfile:
 
 i = 0
 
-if os.path.exists("./out3/resPath.csv"):
-    os.remove("./out3/resPath.csv")
+if os.path.exists("./out2/resPath.csv"):
+    os.remove("./out2/resPath.csv")
 #calcolo Lk
 for row in comm:
     all_paths = []
