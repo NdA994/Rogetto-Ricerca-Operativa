@@ -63,6 +63,7 @@ for row in pres:
                 resPath.writerow("Commodities numero: " + row[0])
                 resPath.writerow(path)
     comm[int(row[0])].clear()
+
 print(comm)
 print(len(pres))
 
