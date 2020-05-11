@@ -89,3 +89,4 @@ with open('./preSolve2/05_giorno_topology.csv', 'w', newline='') as csvPath:
     resPath = csv.writer(csvPath, delimiter=' ', quoting=csv.QUOTE_MINIMAL)
     for row in edge:
         resPath.writerow(row)
+print("qualcosa")
