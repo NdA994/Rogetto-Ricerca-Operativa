@@ -31,21 +31,16 @@ with open('./dati/01_topology.csv', newline='') as csvfile:
 # Parametro 3: Banda richiesta
 # Parametro 4: Priotrità
 # Parametro 5: ID Commodities
+i = 0
 with open('./dati/01_commodities.csv', newline='') as csvfile:
     topology = csv.reader(csvfile, delimiter=' ')
     for row in topology:
+        row[4] = i
         comm.append(row)
+        i = i + 1
 
+edge = [row + [0] for row in edge]
 
-'''
-for row in comm:
-    Sk = nx.shortest_path(G, source=(row[0]), target=row[1])
-    for incr in range(len(Sk)-1):
-        for count in range(len(edge)):
-            if Sk[incr] == edge[count][0] and Sk[incr+1] == edge[count][1]:
-                for elem in comm:
-                    edge[count][3] = edge[count][3] + row[3]
-    print(row)
-
+print(comm)
+print(node)
 print(edge)
-'''
