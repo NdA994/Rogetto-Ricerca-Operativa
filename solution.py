@@ -44,3 +44,11 @@ edge = [row + [0] for row in edge]
 print(comm)
 print(node)
 print(edge)
+
+for row in comm:
+    print(row[4])
+    with open('./out1/'+str(row[4])+'.csv', newline='') as csvfile:
+        path = csv.reader(csvfile, delimiter=' ')
+        for elem in path:
+            print(elem)
+            break
