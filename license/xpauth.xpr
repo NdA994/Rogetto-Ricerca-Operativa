@@ -1,0 +1,37 @@
+use_server server=""
+license allow-clock-rollback allow-virtual-hostids any-subnet \
+	expiry="13-nov-2018" features="Hyper OptLib OptConsole \
+	MosRTLib MosMCLib mmxprs MosConsole BCL Integer Network \
+	Barrier Quadratic ParaMIP=1024 ParaBar=1024 SLPLib SLPConsole \
+	mmxslp MISLP OptJava MosRTJava MosMCJava BCLJava IVE mmsp \
+	kalis mmodbc mmoci mmxad" fico_xpress_release="8.4" \
+	floating="uncounted" hostid="any" platform="win32 win_x86_64 \
+	sun_sparc linux_x86 hpux_pa aix_ppc win_ia64 sun_sparc64 \
+	linux_x86_64 linux_ia64 hpux_pa64 hpux_ia64 aix_rs64 \
+	macos_x86_64" release="2017" server_hostid="mxf8b156b31f64" \
+	terminal-services sig="2232 57e5 eac2 6ebb f4d9 ba5c d0ce 4b23 \
+	c7ca e045 4013 7abf 044e d11b 04dc 1845 ac40 537e f9e1 05f5 \
+	2c70 63ea 3d5a e68a 54b8 0650 328c 234e 656f ef61 371c 10c6"
+
+! FICO Xpress License Server
+! [UserID 0823, OrderID 1792, LicenseID 05075]
+! Created on 30 Nov 2017
+! By mssm, Icahn School of Medicine at Mount Sinai
+! For mssm, Icahn School of Medicine at Mount Sinai
+! Organisation: Icahn School of Medicine at Mount Sinai
+! Notes:
+
+
+! Type: Floating
+! Expiry: 13 Nov 2018
+! Release: 8.4
+! Features: 
+!    Optimizer,Mosel,BCL,MIP,Barrier,Network,Quadratic,Par MIP,Par
+!    Barrier,SLP,MISLP,Java,Kalis,SP,ODBC,OCI,IVE,TS,Console,XAD
+! Platforms: Win32, Win64, Solaris32, Linux32, HPUX32, AIX32, WinIA64,
+! Solaris64, Linux64, LinuxIA64, HPUX64, HPUXIA64, AIX64, MacOSAMD64
+! Concurrent processes: unlimited
+! Number of parallel barrier threads: 1024
+! Number of parallel MIP threads: 1024
+
+! Hostid: mxf8b156b31f64		! Jonathan desktop : Academic
