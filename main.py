@@ -6,6 +6,7 @@ G = nx.DiGraph()
 node = []
 edge = []
 comm = []
+com2 = []
 pres = []
 
 # ARCHI
@@ -16,7 +17,6 @@ with open('./out2/resPath.csv', newline='') as csvfile:
     for row in topology:
         if int(row[1]) == 1:
             pres.append(row)
-
 
 # NODI
 # Parametro 1: ID nodo
@@ -48,9 +48,11 @@ with open('./dati/05_giorno_commodities.csv', newline='') as csvfile:
     topology = csv.reader(csvfile, delimiter=' ')
     for row in topology:
         row[4] = i
+        com2.append(row)
         comm.append(row)
         i = i + 1
 
+print(com2[12])
 edge = [row + [0] for row in edge]
 
 if os.path.exists('./preSolve2/05_giorno_solution.csv'):
@@ -58,9 +60,13 @@ if os.path.exists('./preSolve2/05_giorno_solution.csv'):
 if os.path.exists('./preSolve2/05_giorno_commodities.txt'):
     os.remove('./preSolve2/05_giorno_commodities.txt')
 
+print(com2[12])
+
 for row in pres:
     comm[int(row[0])].clear()
 comm = [x for x in comm if x != []]
+
+print(com2[12])
 
 with open('./preSolve2/05_giorno_commodities.csv', 'w', newline='') as csvPath:
     resPath = csv.writer(csvPath, delimiter=' ', quoting=csv.QUOTE_MINIMAL)
@@ -77,7 +83,11 @@ with open('./preSolve2/05_giorno_solution.txt', 'w', newline='') as fSolution:
                 for incr in range(len(path)-1):
                     for count in range(len(edge)):
                         if path[incr] == edge[count][0] and path[incr+1] == edge[count][1]:
-                            print(edge[count][0] + " " + edge[count][1])
+                            pass
+                            #print(row[0])
+                            #print(com2[int(row[0])])
+                            #print(edge[count][0] + " " + edge[count][1])
+                            #print(comm(int(row[0])
+                            #edge[count][3] = edge[count][3] + path[2]
 
-
-
+print(com2[12])
