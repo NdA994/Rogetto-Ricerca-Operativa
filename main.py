@@ -63,7 +63,7 @@ if os.path.exists('./preSolve2/05_giorno_commodities.txt'):
 print(com2[12])
 
 for row in pres:
-    comm[int(row[0])].clear()
+    comm[int(row[0])] = []
 comm = [x for x in comm if x != []]
 
 print(com2[12])
