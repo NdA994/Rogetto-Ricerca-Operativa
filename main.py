@@ -80,4 +80,7 @@ with open('./preSolve2/05_giorno_solution.txt', 'w', newline='') as fSolution:
                         if path[incr] == edge[count][0] and path[incr+1] == edge[count][1]:
                             edge[count][3] = edge[count][3] + int(com2[int(row[0])][2])
 
-print(edge)
+with open('./preSolve2/05_giorno_topology.csv', 'w', newline='') as csvPath:
+    resPath = csv.writer(csvPath, delimiter=' ', quoting=csv.QUOTE_MINIMAL)
+    for row in edge:
+        resPath.writerow(row)
