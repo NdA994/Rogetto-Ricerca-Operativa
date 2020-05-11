@@ -1,0 +1,3350 @@
+Commodities numero: 12
+['8', '598', '192', '365', '364']
+Commodities numero: 15
+['364', '365', '192', '598', '8']
+Commodities numero: 32
+['8', '4148', '145', '917']
+Commodities numero: 35
+['917', '145', '4148', '8']
+Commodities numero: 40
+['8', '34', '54', '149']
+Commodities numero: 41
+['8', '34', '54', '149']
+Commodities numero: 43
+['149', '54', '34', '8']
+Commodities numero: 48
+['8', '346', '119', '1939']
+Commodities numero: 49
+['8', '346', '119', '1939']
+Commodities numero: 51
+['1939', '119', '346', '8']
+Commodities numero: 64
+['8', '346']
+Commodities numero: 65
+['8', '346']
+Commodities numero: 66
+['8', '346']
+Commodities numero: 67
+['346', '8']
+Commodities numero: 72
+['8', '354', '199', '409']
+Commodities numero: 75
+['409', '199', '354', '8']
+Commodities numero: 80
+['8', '346', '119', '157', '2598']
+Commodities numero: 81
+['8', '346', '119', '157', '2598']
+Commodities numero: 83
+['2598', '157', '119', '346', '8']
+Commodities numero: 100
+['8', '1719']
+Commodities numero: 101
+['8', '1719']
+Commodities numero: 102
+['8', '1719']
+Commodities numero: 103
+['1719', '8']
+Commodities numero: 104
+['8', '1274', '162', '161']
+Commodities numero: 107
+['161', '162', '1274', '8']
+Commodities numero: 116
+['8', '2018', '2045', '2042', '1981']
+Commodities numero: 119
+['1981', '2042', '2045', '2018', '8']
+Commodities numero: 120
+['8', '2018', '4920', '2189']
+Commodities numero: 123
+['2189', '4920', '2018', '8']
+Commodities numero: 148
+['8', '2018']
+Commodities numero: 149
+['8', '2018']
+Commodities numero: 150
+['8', '2018']
+Commodities numero: 151
+['2018', '8']
+Commodities numero: 172
+['8', '2018', '4920', '4921']
+Commodities numero: 173
+['8', '2018', '4920', '4921']
+Commodities numero: 174
+['8', '2018', '4920', '4921']
+Commodities numero: 175
+['4921', '4920', '2018', '8']
+Commodities numero: 184
+['8', '2018', '2045', '2042']
+Commodities numero: 187
+['2042', '2045', '2018', '8']
+Commodities numero: 208
+['8', '2018', '2045', '2020']
+Commodities numero: 211
+['2020', '2045', '2018', '8']
+Commodities numero: 212
+['8', '2018', '4920']
+Commodities numero: 213
+['8', '2018', '4920']
+Commodities numero: 214
+['8', '2018', '4920']
+Commodities numero: 215
+['4920', '2018', '8']
+Commodities numero: 228
+['8', '2018', '2045', '2042', '2472']
+Commodities numero: 231
+['2472', '2042', '2045', '2018', '8']
+Commodities numero: 232
+['8', '2018', '2045', '2020', '2187']
+Commodities numero: 235
+['2187', '2020', '2045', '2018', '8']
+Commodities numero: 252
+['8', '939', '4778', '4775']
+Commodities numero: 255
+['4775', '4778', '939', '8']
+Commodities numero: 256
+['8', '1475', '4776']
+Commodities numero: 257
+['8', '1475', '4776']
+Commodities numero: 258
+['8', '1475', '4776']
+Commodities numero: 259
+['4776', '1475', '8']
+Commodities numero: 260
+['8', '1475', '4783', '4777']
+Commodities numero: 261
+['8', '1475', '4783', '4777']
+Commodities numero: 262
+['8', '1475', '4783', '4777']
+Commodities numero: 263
+['4777', '4783', '1475', '8']
+Commodities numero: 264
+['8', '939', '4778']
+Commodities numero: 267
+['4778', '939', '8']
+Commodities numero: 272
+['8', '1475']
+Commodities numero: 273
+['8', '1475']
+Commodities numero: 274
+['8', '1475']
+Commodities numero: 275
+['1475', '8']
+Commodities numero: 300
+['8', '1475', '4783']
+Commodities numero: 301
+['8', '1475', '4783']
+Commodities numero: 302
+['8', '1475', '4783']
+Commodities numero: 303
+['4783', '1475', '8']
+Commodities numero: 304
+['8', '1475', '4785']
+Commodities numero: 307
+['4785', '1475', '8']
+Commodities numero: 312
+['8', '939', '955', '940', '954', '944', '947', '948', '4075']
+Commodities numero: 315
+['4075', '948', '947', '944', '954', '940', '955', '939', '8']
+Commodities numero: 324
+['8', '2046']
+Commodities numero: 325
+['8', '2046']
+Commodities numero: 326
+['8', '2046']
+Commodities numero: 327
+['2046', '8']
+Commodities numero: 328
+['8', '354', '150', '128']
+Commodities numero: 331
+['128', '150', '354', '8']
+Commodities numero: 336
+['8', '2046', '2026', '2166']
+Commodities numero: 339
+['2166', '2026', '2046', '8']
+Commodities numero: 340
+['8', '2046', '2026', '2167']
+Commodities numero: 343
+['2167', '2026', '2046', '8']
+Commodities numero: 348
+['8', '2046', '2026', '2167', '2149']
+Commodities numero: 351
+['2149', '2167', '2026', '2046', '8']
+Commodities numero: 352
+['8', '2046', '1968']
+Commodities numero: 353
+['8', '2046', '1968']
+Commodities numero: 354
+['8', '2046', '1968']
+Commodities numero: 355
+['1968', '2046', '8']
+Commodities numero: 356
+['8', '2046', '1968', '2470']
+Commodities numero: 357
+['8', '2046', '1968', '2470']
+Commodities numero: 359
+['2470', '1968', '2046', '8']
+Commodities numero: 368
+['8', '2046', '2026']
+Commodities numero: 369
+['8', '2046', '2026']
+Commodities numero: 370
+['8', '2046', '2026']
+Commodities numero: 371
+['2026', '2046', '8']
+Commodities numero: 376
+['8', '2046', '1969', '2152']
+Commodities numero: 379
+['2152', '1969', '2046', '8']
+Commodities numero: 384
+['8', '2046', '1968', '2161']
+Commodities numero: 385
+['8', '2046', '1968', '2161']
+Commodities numero: 387
+['2161', '1968', '2046', '8']
+Commodities numero: 392
+['8', '2046', '1969', '2025']
+Commodities numero: 395
+['2025', '1969', '2046', '8']
+Commodities numero: 400
+['8', '2046', '1969', '4853', '4852', '4841', '4831', '4811', '4817', '4819', '4813']
+Commodities numero: 403
+['4813', '4819', '4817', '4811', '4831', '4841', '4852', '4853', '1969', '2046', '8']
+Commodities numero: 404
+['8', '2046', '1969', '4853', '4852', '4841', '4831', '4811', '4817']
+Commodities numero: 407
+['4817', '4811', '4831', '4841', '4852', '4853', '1969', '2046', '8']
+Commodities numero: 408
+['8', '2046', '1969', '4853', '4852', '4841', '4831', '4811', '4817', '4819']
+Commodities numero: 411
+['4819', '4817', '4811', '4831', '4841', '4852', '4853', '1969', '2046', '8']
+Commodities numero: 440
+['8', '4673', '309', '794']
+Commodities numero: 443
+['794', '309', '4673', '8']
+Commodities numero: 444
+['8', '3611', '3414', '3470', '3536']
+Commodities numero: 445
+['8', '3611', '3414', '3470', '3536']
+Commodities numero: 447
+['3536', '3470', '3414', '3611', '8']
+Commodities numero: 448
+['8', '718']
+Commodities numero: 449
+['8', '718']
+Commodities numero: 450
+['8', '718']
+Commodities numero: 451
+['718', '8']
+Commodities numero: 456
+['8', '1452', '978', '1456', '981', '980']
+Commodities numero: 457
+['8', '1452', '978', '1456', '981', '980']
+Commodities numero: 458
+['8', '1452', '978', '1456', '981', '980']
+Commodities numero: 459
+['980', '981', '1456', '978', '1452', '8']
+Commodities numero: 480
+['8', '456', '1059', '1061']
+Commodities numero: 481
+['8', '456', '1059', '1061']
+Commodities numero: 482
+['8', '456', '1059', '1061']
+Commodities numero: 483
+['1061', '1059', '456', '8']
+Commodities numero: 484
+['8', '4673', '309', '316', '889']
+Commodities numero: 487
+['889', '316', '309', '4673', '8']
+Commodities numero: 496
+['8', '1053', '1054']
+Commodities numero: 497
+['8', '1053', '1054']
+Commodities numero: 498
+['8', '1053', '1054']
+Commodities numero: 499
+['1054', '1053', '8']
+Commodities numero: 500
+['8', '1452', '979', '1450']
+Commodities numero: 503
+['1450', '979', '1452', '8']
+Commodities numero: 504
+['8', '47', '46', '85', '604', '605']
+Commodities numero: 507
+['605', '604', '85', '46', '47', '8']
+Commodities numero: 512
+['8', '1274', '162', '163', '924']
+Commodities numero: 513
+['8', '1274', '162', '163', '924']
+Commodities numero: 515
+['924', '163', '162', '1274', '8']
+Commodities numero: 528
+['8', '4673', '309', '316']
+Commodities numero: 531
+['316', '309', '4673', '8']
+Commodities numero: 556
+['8', '350', '1353', '1347', '1346']
+Commodities numero: 557
+['8', '350', '1353', '1347', '1346']
+Commodities numero: 559
+['1346', '1347', '1353', '350', '8']
+Commodities numero: 560
+['8', '350', '1353', '1347', '1349']
+Commodities numero: 561
+['8', '350', '1353', '1347', '1349']
+Commodities numero: 563
+['1349', '1347', '1353', '350', '8']
+Commodities numero: 564
+['8', '124', '91']
+Commodities numero: 567
+['91', '124', '8']
+Commodities numero: 576
+['8', '47', '1021']
+Commodities numero: 579
+['1021', '47', '8']
+Commodities numero: 588
+['8', '1660', '1079', '1446']
+Commodities numero: 591
+['1446', '1079', '1660', '8']
+Commodities numero: 596
+['8', '354', '99', '500']
+Commodities numero: 599
+['500', '99', '354', '8']
+Commodities numero: 604
+['8', '354', '99', '175']
+Commodities numero: 607
+['175', '99', '354', '8']
+Commodities numero: 608
+['8', '347']
+Commodities numero: 609
+['8', '347']
+Commodities numero: 610
+['8', '347']
+Commodities numero: 611
+['347', '8']
+Commodities numero: 612
+['8', '4148', '145']
+Commodities numero: 615
+['145', '4148', '8']
+Commodities numero: 624
+['8', '892', '766', '774']
+Commodities numero: 627
+['774', '766', '892', '8']
+Commodities numero: 628
+['8', '456', '457']
+Commodities numero: 629
+['8', '456', '457']
+Commodities numero: 630
+['8', '456', '457']
+Commodities numero: 631
+['457', '456', '8']
+Commodities numero: 632
+['8', '939', '984']
+Commodities numero: 635
+['984', '939', '8']
+Commodities numero: 644
+['8', '4673']
+Commodities numero: 645
+['8', '4673']
+Commodities numero: 646
+['8', '4673']
+Commodities numero: 647
+['4673', '8']
+Commodities numero: 660
+['8', '4118']
+Commodities numero: 661
+['8', '4118']
+Commodities numero: 662
+['8', '4118']
+Commodities numero: 663
+['4118', '8']
+Commodities numero: 688
+['8', '1537', '260']
+Commodities numero: 691
+['260', '1537', '8']
+Commodities numero: 692
+['8', '598', '192', '1208', '2685', '4467']
+Commodities numero: 695
+['4467', '2685', '1208', '192', '598', '8']
+Commodities numero: 696
+['8', '598', '192', '1208', '2685', '2745']
+Commodities numero: 699
+['2745', '2685', '1208', '192', '598', '8']
+Commodities numero: 700
+['8', '598', '192', '1208', '2685', '4467', '4508']
+Commodities numero: 703
+['4508', '4467', '2685', '1208', '192', '598', '8']
+Commodities numero: 704
+['8', '598', '192', '1208', '1207', '2677']
+Commodities numero: 707
+['2677', '1207', '1208', '192', '598', '8']
+Commodities numero: 708
+['8', '598', '192', '1208', '2685']
+Commodities numero: 711
+['2685', '1208', '192', '598', '8']
+Commodities numero: 712
+['8', '598', '192', '1208', '2685', '4467', '4508', '2687']
+Commodities numero: 715
+['2687', '4508', '4467', '2685', '1208', '192', '598', '8']
+Commodities numero: 716
+['8', '598', '1934', '1206', '2721']
+Commodities numero: 719
+['2721', '1206', '1934', '598', '8']
+Commodities numero: 720
+['8', '598', '192', '1208', '2685', '4467', '4508', '2687', '2747']
+Commodities numero: 723
+['2747', '2687', '4508', '4467', '2685', '1208', '192', '598', '8']
+Commodities numero: 724
+['8', '598', '192', '1208', '2680']
+Commodities numero: 727
+['2680', '1208', '192', '598', '8']
+Commodities numero: 728
+['8', '478']
+Commodities numero: 729
+['8', '478']
+Commodities numero: 730
+['8', '478']
+Commodities numero: 731
+['478', '8']
+Commodities numero: 740
+['8', '4001']
+Commodities numero: 741
+['8', '4001']
+Commodities numero: 742
+['8', '4001']
+Commodities numero: 743
+['4001', '8']
+Commodities numero: 744
+['8', '4001', '4031', '3711']
+Commodities numero: 747
+['3711', '4031', '4001', '8']
+Commodities numero: 772
+['8', '124', '86', '353', '1646']
+Commodities numero: 775
+['1646', '353', '86', '124', '8']
+Commodities numero: 796
+['8', '4001', '4016']
+Commodities numero: 799
+['4016', '4001', '8']
+Commodities numero: 800
+['8', '4001', '4015', '3592', '3305']
+Commodities numero: 803
+['3305', '3592', '4015', '4001', '8']
+Commodities numero: 812
+['8', '347', '312', '588', '589']
+Commodities numero: 815
+['589', '588', '312', '347', '8']
+Commodities numero: 824
+['8', '4001', '4039', '2290', '873', '827', '853']
+Commodities numero: 827
+['853', '827', '873', '2290', '4039', '4001', '8']
+Commodities numero: 856
+['8', '4001', '4030']
+Commodities numero: 859
+['4030', '4001', '8']
+Commodities numero: 864
+['8', '4001', '4031']
+Commodities numero: 867
+['4031', '4001', '8']
+Commodities numero: 872
+['8', '598', '192', '847']
+Commodities numero: 875
+['847', '192', '598', '8']
+Commodities numero: 876
+['8', '1452', '978', '1456', '981', '980', '1454']
+Commodities numero: 877
+['8', '1452', '978', '1456', '981', '980', '1454']
+Commodities numero: 878
+['8', '1452', '978', '1456', '981', '980', '1454']
+Commodities numero: 879
+['1454', '980', '981', '1456', '978', '1452', '8']
+Commodities numero: 880
+['8', '366', '661', '2861']
+Commodities numero: 883
+['2861', '661', '366', '8']
+Commodities numero: 884
+['8', '216', '212', '202', '288', '385']
+Commodities numero: 887
+['385', '288', '202', '212', '216', '8']
+Commodities numero: 916
+['8', '598', '192', '365', '364', '362']
+Commodities numero: 919
+['362', '364', '365', '192', '598', '8']
+Commodities numero: 924
+['8', '216', '212', '202', '288']
+Commodities numero: 927
+['288', '202', '212', '216', '8']
+Commodities numero: 928
+['8', '4001', '4038']
+Commodities numero: 931
+['4038', '4001', '8']
+Commodities numero: 952
+['8', '830', '2494', '2550', '2554', '1496']
+Commodities numero: 955
+['1496', '2554', '2550', '2494', '830', '8']
+Commodities numero: 956
+['8', '830', '2494', '2550', '1495']
+Commodities numero: 959
+['1495', '2550', '2494', '830', '8']
+Commodities numero: 960
+['8', '1274', '162', '163', '550']
+Commodities numero: 961
+['8', '1274', '162', '163', '550']
+Commodities numero: 963
+['550', '163', '162', '1274', '8']
+Commodities numero: 980
+['8', '346', '119']
+Commodities numero: 981
+['8', '346', '119']
+Commodities numero: 982
+['8', '346', '119']
+Commodities numero: 983
+['119', '346', '8']
+Commodities numero: 1020
+['8', '47', '107', '4255']
+Commodities numero: 1023
+['4255', '107', '47', '8']
+Commodities numero: 1028
+['8', '216']
+Commodities numero: 1029
+['8', '216']
+Commodities numero: 1030
+['8', '216']
+Commodities numero: 1031
+['216', '8']
+Commodities numero: 1040
+['8', '47', '673', '3069']
+Commodities numero: 1043
+['3069', '673', '47', '8']
+Commodities numero: 1060
+['8', '216', '212', '3062']
+Commodities numero: 1063
+['3062', '212', '216', '8']
+Commodities numero: 1072
+['8', '34', '54', '516', '1004']
+Commodities numero: 1073
+['8', '34', '54', '516', '1004']
+Commodities numero: 1075
+['1004', '516', '54', '34', '8']
+Commodities numero: 1080
+['8', '116', '66', '812', '809']
+Commodities numero: 1083
+['809', '812', '66', '116', '8']
+Commodities numero: 1084
+['8', '1053', '1054', '2282']
+Commodities numero: 1085
+['8', '1053', '1054', '2282']
+Commodities numero: 1087
+['2282', '1054', '1053', '8']
+Commodities numero: 1088
+['8', '354', '1567']
+Commodities numero: 1091
+['1567', '354', '8']
+Commodities numero: 1092
+['8', '1692', '1095', '1094']
+Commodities numero: 1093
+['8', '1692', '1095', '1094']
+Commodities numero: 1094
+['8', '1692', '1095', '1094']
+Commodities numero: 1095
+['1094', '1095', '1692', '8']
+Commodities numero: 1096
+['8', '34', '54', '1101']
+Commodities numero: 1097
+['8', '34', '54', '1101']
+Commodities numero: 1099
+['1101', '54', '34', '8']
+Commodities numero: 1100
+['8', '834', '1009', '897', '898']
+Commodities numero: 1103
+['898', '897', '1009', '834', '8']
+Commodities numero: 1108
+['8', '1692', '1095', '1096', '1226', '1484']
+Commodities numero: 1109
+['8', '1692', '1095', '1096', '1226', '1484']
+Commodities numero: 1110
+['8', '1692', '1095', '1096', '1226', '1484']
+Commodities numero: 1111
+['1484', '1226', '1096', '1095', '1692', '8']
+Commodities numero: 1128
+['8', '523', '421', '856']
+Commodities numero: 1129
+['8', '523', '421', '856']
+Commodities numero: 1130
+['8', '523', '421', '856']
+Commodities numero: 1131
+['856', '421', '523', '8']
+Commodities numero: 1132
+['8', '523', '399']
+Commodities numero: 1133
+['8', '523', '399']
+Commodities numero: 1134
+['8', '523', '399']
+Commodities numero: 1135
+['399', '523', '8']
+Commodities numero: 1160
+['8', '1714', '1643', '1636']
+Commodities numero: 1161
+['8', '1714', '1643', '1636']
+Commodities numero: 1163
+['1636', '1643', '1714', '8']
+Commodities numero: 1168
+['8', '4148', '145', '917', '126']
+Commodities numero: 1171
+['126', '917', '145', '4148', '8']
+Commodities numero: 1180
+['8', '116', '66', '102', '1491']
+Commodities numero: 1183
+['1491', '102', '66', '116', '8']
+Commodities numero: 1200
+['8', '350', '1353', '1347']
+Commodities numero: 1201
+['8', '350', '1353', '1347']
+Commodities numero: 1203
+['1347', '1353', '350', '8']
+Commodities numero: 1212
+['8', '116', '66', '158', '294']
+Commodities numero: 1215
+['294', '158', '66', '116', '8']
+Commodities numero: 1248
+['8', '172', '198']
+Commodities numero: 1249
+['8', '172', '198']
+Commodities numero: 1250
+['8', '172', '198']
+Commodities numero: 1251
+['198', '172', '8']
+Commodities numero: 1252
+['8', '47', '46', '85', '604', '603']
+Commodities numero: 1255
+['603', '604', '85', '46', '47', '8']
+Commodities numero: 1272
+['8', '216', '212', '202']
+Commodities numero: 1275
+['202', '212', '216', '8']
+Commodities numero: 1308
+['8', '354', '99', '263']
+Commodities numero: 1311
+['263', '99', '354', '8']
+Commodities numero: 1316
+['8', '172', '3170', '620']
+Commodities numero: 1317
+['8', '172', '3170', '620']
+Commodities numero: 1319
+['620', '3170', '172', '8']
+Commodities numero: 1324
+['8', '2283', '960']
+Commodities numero: 1325
+['8', '2283', '960']
+Commodities numero: 1326
+['8', '2283', '960']
+Commodities numero: 1327
+['960', '2283', '8']
+Commodities numero: 1336
+['8', '834', '1009']
+Commodities numero: 1339
+['1009', '834', '8']
+Commodities numero: 1340
+['8', '598', '192', '423', '425', '424']
+Commodities numero: 1343
+['424', '425', '423', '192', '598', '8']
+Commodities numero: 1344
+['8', '47', '107']
+Commodities numero: 1347
+['107', '47', '8']
+Commodities numero: 1352
+['8', '1452', '979', '1453']
+Commodities numero: 1355
+['1453', '979', '1452', '8']
+Commodities numero: 1356
+['8', '1452', '979', '1453', '982', '1455']
+Commodities numero: 1359
+['1455', '982', '1453', '979', '1452', '8']
+Commodities numero: 1384
+['8', '2283', '1712']
+Commodities numero: 1385
+['8', '2283', '1712']
+Commodities numero: 1386
+['8', '2283', '1712']
+Commodities numero: 1387
+['1712', '2283', '8']
+Commodities numero: 1396
+['8', '47', '107', '386']
+Commodities numero: 1399
+['386', '107', '47', '8']
+Commodities numero: 1416
+['8', '718', '1519']
+Commodities numero: 1417
+['8', '718', '1519']
+Commodities numero: 1418
+['8', '718', '1519']
+Commodities numero: 1419
+['1519', '718', '8']
+Commodities numero: 1428
+['8', '598', '192', '365', '364', '362', '359', '363']
+Commodities numero: 1431
+['363', '359', '362', '364', '365', '192', '598', '8']
+Commodities numero: 1432
+['8', '598', '192', '423', '425', '426', '427', '507']
+Commodities numero: 1435
+['507', '427', '426', '425', '423', '192', '598', '8']
+Commodities numero: 1484
+['8', '2046', '1969', '4853', '4852', '4806', '4844', '4898', '4866']
+Commodities numero: 1487
+['4866', '4898', '4844', '4806', '4852', '4853', '1969', '2046', '8']
+Commodities numero: 1496
+['8', '2046', '1969', '4853', '4852', '4806', '4844', '4898', '4866', '4795']
+Commodities numero: 1499
+['4795', '4866', '4898', '4844', '4806', '4852', '4853', '1969', '2046', '8']
+Commodities numero: 1500
+['8', '2046', '1969', '4853', '4852', '4806', '4844', '4898', '4866', '4860', '4800']
+Commodities numero: 1503
+['4800', '4860', '4866', '4898', '4844', '4806', '4852', '4853', '1969', '2046', '8']
+Commodities numero: 1508
+['8', '2046', '1969', '4853', '4852', '4806', '4844', '4898', '4866', '4795', '4867', '4802']
+Commodities numero: 1511
+['4802', '4867', '4795', '4866', '4898', '4844', '4806', '4852', '4853', '1969', '2046', '8']
+Commodities numero: 1512
+['8', '2046', '1969', '4853', '4852', '4806', '4844', '4898', '4866', '4795', '4867']
+Commodities numero: 1515
+['4867', '4795', '4866', '4898', '4844', '4806', '4852', '4853', '1969', '2046', '8']
+Commodities numero: 1516
+['8', '2046', '1969', '4853', '4852', '4806', '4844', '4898', '4866', '4860']
+Commodities numero: 1519
+['4860', '4866', '4898', '4844', '4806', '4852', '4853', '1969', '2046', '8']
+Commodities numero: 1520
+['8', '2046', '1969', '4853', '4852', '4806', '4844', '4898', '4866', '4795', '4798']
+Commodities numero: 1523
+['4798', '4795', '4866', '4898', '4844', '4806', '4852', '4853', '1969', '2046', '8']
+Commodities numero: 1524
+['8', '2046', '1969', '4853', '4852', '4806', '4844', '4898', '4866', '4795', '4867', '4802', '4803']
+Commodities numero: 1527
+['4803', '4802', '4867', '4795', '4866', '4898', '4844', '4806', '4852', '4853', '1969', '2046', '8']
+Commodities numero: 1528
+['8', '939', '955', '940', '954', '944']
+Commodities numero: 1529
+['8', '939', '955', '940', '954', '944']
+Commodities numero: 1530
+['8', '939', '955', '940', '954', '944']
+Commodities numero: 1531
+['944', '954', '940', '955', '939', '8']
+Commodities numero: 1532
+['8', '2046', '1969', '4853', '4852', '4806', '4844', '4898', '4866', '4860', '4800', '4832']
+Commodities numero: 1535
+['4832', '4800', '4860', '4866', '4898', '4844', '4806', '4852', '4853', '1969', '2046', '8']
+Commodities numero: 1544
+['8', '34', '68']
+Commodities numero: 1545
+['8', '34', '68']
+Commodities numero: 1546
+['8', '34', '68']
+Commodities numero: 1547
+['68', '34', '8']
+Commodities numero: 1552
+['8', '598', '192', '423', '425', '426', '427']
+Commodities numero: 1555
+['427', '426', '425', '423', '192', '598', '8']
+Commodities numero: 1564
+['8', '1537', '57', '537', '538', '1074']
+Commodities numero: 1567
+['1074', '538', '537', '57', '1537', '8']
+Commodities numero: 1572
+['8', '684']
+Commodities numero: 1573
+['8', '684']
+Commodities numero: 1574
+['8', '684']
+Commodities numero: 1575
+['684', '8']
+Commodities numero: 1576
+['8', '598', '192', '565', '1401']
+Commodities numero: 1579
+['1401', '565', '192', '598', '8']
+Commodities numero: 1584
+['8', '598', '192', '423', '425', '426', '427', '428', '506']
+Commodities numero: 1587
+['506', '428', '427', '426', '425', '423', '192', '598', '8']
+Commodities numero: 1588
+['8', '598', '192', '423', '425', '426', '427', '428']
+Commodities numero: 1591
+['428', '427', '426', '425', '423', '192', '598', '8']
+Commodities numero: 1596
+['8', '1660']
+Commodities numero: 1597
+['8', '1660']
+Commodities numero: 1598
+['8', '1660']
+Commodities numero: 1599
+['1660', '8']
+Commodities numero: 1600
+['8', '358', '430', '360']
+Commodities numero: 1601
+['8', '358', '430', '360']
+Commodities numero: 1603
+['360', '430', '358', '8']
+Commodities numero: 1616
+['8', '1036']
+Commodities numero: 1617
+['8', '1036']
+Commodities numero: 1618
+['8', '1036']
+Commodities numero: 1619
+['1036', '8']
+Commodities numero: 1632
+['8', '830', '2494', '2550', '1495', '1962', '2340', '1498']
+Commodities numero: 1635
+['1498', '2340', '1962', '1495', '2550', '2494', '830', '8']
+Commodities numero: 1652
+['8', '598', '192', '1208']
+Commodities numero: 1655
+['1208', '192', '598', '8']
+Commodities numero: 1656
+['8', '1274', '162', '163', '184', '651']
+Commodities numero: 1657
+['8', '1274', '162', '163', '184', '651']
+Commodities numero: 1658
+['8', '1274', '162', '163', '184', '651']
+Commodities numero: 1659
+['651', '184', '163', '162', '1274', '8']
+Commodities numero: 1664
+['8', '4672']
+Commodities numero: 1665
+['8', '4672']
+Commodities numero: 1666
+['8', '4672']
+Commodities numero: 1667
+['4672', '8']
+Commodities numero: 1700
+['8', '354', '99', '175', '1569']
+Commodities numero: 1703
+['1569', '175', '99', '354', '8']
+Commodities numero: 1704
+['8', '172', '171']
+Commodities numero: 1707
+['171', '172', '8']
+Commodities numero: 1716
+['8', '38']
+Commodities numero: 1717
+['8', '38']
+Commodities numero: 1718
+['8', '38']
+Commodities numero: 1719
+['38', '8']
+Commodities numero: 1724
+['8', '4715', '1922', '1339']
+Commodities numero: 1725
+['8', '4715', '1922', '1339']
+Commodities numero: 1726
+['8', '4715', '1922', '1339']
+Commodities numero: 1727
+['1339', '1922', '4715', '8']
+Commodities numero: 1748
+['8', '1452', '978', '1456']
+Commodities numero: 1749
+['8', '1452', '978', '1456']
+Commodities numero: 1750
+['8', '1452', '978', '1456']
+Commodities numero: 1751
+['1456', '978', '1452', '8']
+Commodities numero: 1784
+['8', '598', '192', '365', '1235', '1483', '1236']
+Commodities numero: 1787
+['1236', '1483', '1235', '365', '192', '598', '8']
+Commodities numero: 1792
+['8', '1692', '1095', '1094', '1231']
+Commodities numero: 1793
+['8', '1692', '1095', '1094', '1231']
+Commodities numero: 1794
+['8', '1692', '1095', '1094', '1231']
+Commodities numero: 1795
+['1231', '1094', '1095', '1692', '8']
+Commodities numero: 1812
+['8', '34', '412']
+Commodities numero: 1813
+['8', '34', '412']
+Commodities numero: 1814
+['8', '34', '412']
+Commodities numero: 1815
+['412', '34', '8']
+Commodities numero: 1828
+['8', '147', '526']
+Commodities numero: 1831
+['526', '147', '8']
+Commodities numero: 1844
+['8', '47', '46', '85', '604', '643']
+Commodities numero: 1847
+['643', '604', '85', '46', '47', '8']
+Commodities numero: 1896
+['8', '598', '192', '365', '1235']
+Commodities numero: 1899
+['1235', '365', '192', '598', '8']
+Commodities numero: 1904
+['8', '718', '719', '717']
+Commodities numero: 1907
+['717', '719', '718', '8']
+Commodities numero: 1920
+['8', '456', '1059', '1061', '1062']
+Commodities numero: 1921
+['8', '456', '1059', '1061', '1062']
+Commodities numero: 1922
+['8', '456', '1059', '1061', '1062']
+Commodities numero: 1923
+['1062', '1061', '1059', '456', '8']
+Commodities numero: 1924
+['8', '116', '66', '102', '513']
+Commodities numero: 1927
+['513', '102', '66', '116', '8']
+Commodities numero: 1960
+['8', '116', '66', '810']
+Commodities numero: 1963
+['810', '66', '116', '8']
+Commodities numero: 1980
+['8', '2283', '960', '485']
+Commodities numero: 1983
+['485', '960', '2283', '8']
+Commodities numero: 1984
+['8', '34', '54', '516']
+Commodities numero: 1985
+['8', '34', '54', '516']
+Commodities numero: 1987
+['516', '54', '34', '8']
+Commodities numero: 2016
+['8', '1714', '1643', '1637']
+Commodities numero: 2017
+['8', '1714', '1643', '1637']
+Commodities numero: 2019
+['1637', '1643', '1714', '8']
+Commodities numero: 2028
+['8', '1714', '1643', '1637', '1721']
+Commodities numero: 2029
+['8', '1714', '1643', '1637', '1721']
+Commodities numero: 2031
+['1721', '1637', '1643', '1714', '8']
+Commodities numero: 2032
+['8', '598', '192', '423', '425']
+Commodities numero: 2035
+['425', '423', '192', '598', '8']
+Commodities numero: 2048
+['8', '1537']
+Commodities numero: 2049
+['8', '1537']
+Commodities numero: 2050
+['8', '1537']
+Commodities numero: 2051
+['1537', '8']
+Commodities numero: 2064
+['8', '350', '1353', '1352']
+Commodities numero: 2065
+['8', '350', '1353', '1352']
+Commodities numero: 2067
+['1352', '1353', '350', '8']
+Commodities numero: 2076
+['8', '4673', '309', '644']
+Commodities numero: 2079
+['644', '309', '4673', '8']
+Commodities numero: 2080
+['8', '1537', '154']
+Commodities numero: 2081
+['8', '1537', '154']
+Commodities numero: 2082
+['8', '1537', '154']
+Commodities numero: 2083
+['154', '1537', '8']
+Commodities numero: 2084
+['8', '358', '430', '360', '361']
+Commodities numero: 2085
+['8', '358', '430', '360', '361']
+Commodities numero: 2087
+['361', '360', '430', '358', '8']
+Commodities numero: 2096
+['8', '4001', '4025']
+Commodities numero: 2099
+['4025', '4001', '8']
+Commodities numero: 2100
+['8', '4001', '3791', '3790', '3995']
+Commodities numero: 2103
+['3995', '3790', '3791', '4001', '8']
+Commodities numero: 2136
+['8', '4001', '4032', '3770', '3245']
+Commodities numero: 2139
+['3245', '3770', '4032', '4001', '8']
+Commodities numero: 2148
+['8', '4001', '4032', '3770', '3245', '3244']
+Commodities numero: 2151
+['3244', '3245', '3770', '4032', '4001', '8']
+Commodities numero: 2156
+['8', '4001', '3791', '3790']
+Commodities numero: 2159
+['3790', '3791', '4001', '8']
+Commodities numero: 2160
+['8', '4001', '3791']
+Commodities numero: 2163
+['3791', '4001', '8']
+Commodities numero: 2164
+['8', '4001', '3791', '3790', '3792']
+Commodities numero: 2167
+['3792', '3790', '3791', '4001', '8']
+Commodities numero: 2168
+['8', '4001', '4032', '3770']
+Commodities numero: 2171
+['3770', '4032', '4001', '8']
+Commodities numero: 2172
+['8', '4001', '4032']
+Commodities numero: 2175
+['4032', '4001', '8']
+Commodities numero: 2180
+['8', '4001', '3791', '3790', '3995', '3835']
+Commodities numero: 2183
+['3835', '3995', '3790', '3791', '4001', '8']
+Commodities numero: 2192
+['8', '4001', '4037']
+Commodities numero: 2195
+['4037', '4001', '8']
+Commodities numero: 2196
+['8', '4001', '4032', '3770', '3245', '3244', '2874']
+Commodities numero: 2199
+['2874', '3244', '3245', '3770', '4032', '4001', '8']
+Commodities numero: 2208
+['8', '366', '525', '3756']
+Commodities numero: 2211
+['3756', '525', '366', '8']
+Commodities numero: 2224
+['8', '4001', '4022']
+Commodities numero: 2227
+['4022', '4001', '8']
+Commodities numero: 2244
+['8', '366', '525', '3756', '3147', '3148']
+Commodities numero: 2247
+['3148', '3147', '3756', '525', '366', '8']
+Commodities numero: 2256
+['8', '366', '525', '3756', '3147']
+Commodities numero: 2259
+['3147', '3756', '525', '366', '8']
+Commodities numero: 2260
+['8', '1452', '979', '1453', '982', '1455', '1238', '1461', '1457']
+Commodities numero: 2263
+['1457', '1461', '1238', '1455', '982', '1453', '979', '1452', '8']
+Commodities numero: 2264
+['8', '1452', '979', '987']
+Commodities numero: 2267
+['987', '979', '1452', '8']
+Commodities numero: 2268
+['8', '830', '828', '829']
+Commodities numero: 2271
+['829', '828', '830', '8']
+Commodities numero: 2272
+['8', '354', '99', '500', '501']
+Commodities numero: 2275
+['501', '500', '99', '354', '8']
+Commodities numero: 2280
+['8', '1537', '57', '537']
+Commodities numero: 2283
+['537', '57', '1537', '8']
+Commodities numero: 2288
+['8', '1692']
+Commodities numero: 2289
+['8', '1692']
+Commodities numero: 2290
+['8', '1692']
+Commodities numero: 2291
+['1692', '8']
+Commodities numero: 2328
+['8', '2046', '1969', '2152', '2194']
+Commodities numero: 2331
+['2194', '2152', '1969', '2046', '8']
+Commodities numero: 2352
+['8', '47', '46', '85', '604', '605', '606']
+Commodities numero: 2355
+['606', '605', '604', '85', '46', '47', '8']
+Commodities numero: 2356
+['8', '172', '814', '691']
+Commodities numero: 2359
+['691', '814', '172', '8']
+Commodities numero: 2388
+['8', '892']
+Commodities numero: 2389
+['8', '892']
+Commodities numero: 2390
+['8', '892']
+Commodities numero: 2391
+['892', '8']
+Commodities numero: 2404
+['8', '346', '119', '1214']
+Commodities numero: 2405
+['8', '346', '119', '1214']
+Commodities numero: 2407
+['1214', '119', '346', '8']
+Commodities numero: 2412
+['8', '1452', '978', '1456', '981']
+Commodities numero: 2413
+['8', '1452', '978', '1456', '981']
+Commodities numero: 2415
+['981', '1456', '978', '1452', '8']
+Commodities numero: 2424
+['8', '1274', '162', '163']
+Commodities numero: 2425
+['8', '1274', '162', '163']
+Commodities numero: 2426
+['8', '1274', '162', '163']
+Commodities numero: 2427
+['163', '162', '1274', '8']
+Commodities numero: 2428
+['8', '939', '955', '940', '954', '944', '943']
+Commodities numero: 2429
+['8', '939', '955', '940', '954', '944', '943']
+Commodities numero: 2430
+['8', '939', '955', '940', '954', '944', '943']
+Commodities numero: 2431
+['943', '944', '954', '940', '955', '939', '8']
+Commodities numero: 2436
+['8', '1660', '1079', '1178']
+Commodities numero: 2439
+['1178', '1079', '1660', '8']
+Commodities numero: 2440
+['8', '4001', '4039', '2290', '873', '827']
+Commodities numero: 2443
+['827', '873', '2290', '4039', '4001', '8']
+Commodities numero: 2448
+['8', '598', '192', '365', '1235', '1483']
+Commodities numero: 2451
+['1483', '1235', '365', '192', '598', '8']
+Commodities numero: 2456
+['8', '4148', '145', '917', '1315']
+Commodities numero: 2459
+['1315', '917', '145', '4148', '8']
+Commodities numero: 2460
+['8', '47', '107', '512', '511']
+Commodities numero: 2463
+['511', '512', '107', '47', '8']
+Commodities numero: 2472
+['8', '34', '54']
+Commodities numero: 2473
+['8', '34', '54']
+Commodities numero: 2474
+['8', '34', '54']
+Commodities numero: 2475
+['54', '34', '8']
+Commodities numero: 2488
+['8', '1714', '1643', '1630']
+Commodities numero: 2489
+['8', '1714', '1643', '1630']
+Commodities numero: 2490
+['8', '1714', '1643', '1630']
+Commodities numero: 2491
+['1630', '1643', '1714', '8']
+Commodities numero: 2492
+['8', '25']
+Commodities numero: 2493
+['8', '25']
+Commodities numero: 2494
+['8', '25']
+Commodities numero: 2495
+['25', '8']
+Commodities numero: 2496
+['8', '298']
+Commodities numero: 2497
+['8', '298']
+Commodities numero: 2498
+['8', '298']
+Commodities numero: 2499
+['298', '8']
+Commodities numero: 2500
+['8', '354', '99', '282']
+Commodities numero: 2503
+['282', '99', '354', '8']
+Commodities numero: 2504
+['8', '830', '828', '2311', '2516']
+Commodities numero: 2507
+['2516', '2311', '828', '830', '8']
+Commodities numero: 2508
+['8', '830', '828', '1961']
+Commodities numero: 2511
+['1961', '828', '830', '8']
+Commodities numero: 2520
+['8', '830', '828', '479', '1954']
+Commodities numero: 2523
+['1954', '479', '828', '830', '8']
+Commodities numero: 2536
+['8', '830', '828', '479', '2518']
+Commodities numero: 2539
+['2518', '479', '828', '830', '8']
+Commodities numero: 2548
+['8', '830']
+Commodities numero: 2549
+['8', '830']
+Commodities numero: 2550
+['8', '830']
+Commodities numero: 2551
+['830', '8']
+Commodities numero: 2552
+['8', '830', '828', '2311', '2516', '2488']
+Commodities numero: 2555
+['2488', '2516', '2311', '828', '830', '8']
+Commodities numero: 2560
+['8', '830', '828', '2038']
+Commodities numero: 2563
+['2038', '828', '830', '8']
+Commodities numero: 2568
+['8', '830', '828', '2311']
+Commodities numero: 2571
+['2311', '828', '830', '8']
+Commodities numero: 2572
+['8', '830', '828', '2306', '1955']
+Commodities numero: 2575
+['1955', '2306', '828', '830', '8']
+Commodities numero: 2576
+['8', '830', '828', '829', '2483', '2572']
+Commodities numero: 2579
+['2572', '2483', '829', '828', '830', '8']
+Commodities numero: 2588
+['8', '830', '828', '2306']
+Commodities numero: 2591
+['2306', '828', '830', '8']
+Commodities numero: 2616
+['8', '1475', '228']
+Commodities numero: 2617
+['8', '1475', '228']
+Commodities numero: 2618
+['8', '1475', '228']
+Commodities numero: 2619
+['228', '1475', '8']
+Commodities numero: 2620
+['8', '830', '828', '2306', '1956']
+Commodities numero: 2623
+['1956', '2306', '828', '830', '8']
+Commodities numero: 2636
+['8', '830', '828', '2306', '1955', '2417']
+Commodities numero: 2639
+['2417', '1955', '2306', '828', '830', '8']
+Commodities numero: 2640
+['8', '830', '828', '2418']
+Commodities numero: 2643
+['2418', '828', '830', '8']
+Commodities numero: 2644
+['8', '830', '828', '829', '2483']
+Commodities numero: 2647
+['2483', '829', '828', '830', '8']
+Commodities numero: 2648
+['8', '830', '2113']
+Commodities numero: 2651
+['2113', '830', '8']
+Commodities numero: 2652
+['8', '830', '828', '479', '1954', '2536']
+Commodities numero: 2655
+['2536', '1954', '479', '828', '830', '8']
+Commodities numero: 2656
+['8', '830', '828', '2306', '1956', '2602']
+Commodities numero: 2659
+['2602', '1956', '2306', '828', '830', '8']
+Commodities numero: 2660
+['8', '830', '828', '829', '2307']
+Commodities numero: 2663
+['2307', '829', '828', '830', '8']
+Commodities numero: 2712
+['8', '598', '192', '365', '364', '1237']
+Commodities numero: 2715
+['1237', '364', '365', '192', '598', '8']
+Commodities numero: 2716
+['8', '4673', '309', '793']
+Commodities numero: 2719
+['793', '309', '4673', '8']
+Commodities numero: 2736
+['8', '4715', '1922', '962']
+Commodities numero: 2737
+['8', '4715', '1922', '962']
+Commodities numero: 2739
+['962', '1922', '4715', '8']
+Commodities numero: 2756
+['8', '116', '66', '166', '804']
+Commodities numero: 2759
+['804', '166', '66', '116', '8']
+Commodities numero: 2760
+['8', '1452', '978']
+Commodities numero: 2761
+['8', '1452', '978']
+Commodities numero: 2762
+['8', '1452', '978']
+Commodities numero: 2763
+['978', '1452', '8']
+Commodities numero: 2772
+['8', '830', '828']
+Commodities numero: 2775
+['828', '830', '8']
+Commodities numero: 2784
+['8', '1537', '57', '537', '538']
+Commodities numero: 2787
+['538', '537', '57', '1537', '8']
+Commodities numero: 2804
+['8', '1714', '1643', '1630', '1627', '1556']
+Commodities numero: 2805
+['8', '1714', '1643', '1630', '1627', '1556']
+Commodities numero: 2806
+['8', '1714', '1643', '1630', '1627', '1556']
+Commodities numero: 2807
+['1556', '1627', '1630', '1643', '1714', '8']
+Commodities numero: 2808
+['8', '47', '46', '85', '604', '642']
+Commodities numero: 2811
+['642', '604', '85', '46', '47', '8']
+Commodities numero: 2820
+['8', '830', '2494', '2550', '1495', '1962', '2340', '2579']
+Commodities numero: 2823
+['2579', '2340', '1962', '1495', '2550', '2494', '830', '8']
+Commodities numero: 2828
+['8', '830', '2494', '2550', '2554', '2341', '2555', '2594']
+Commodities numero: 2831
+['2594', '2555', '2341', '2554', '2550', '2494', '830', '8']
+Commodities numero: 2832
+['8', '830', '2494', '2550', '1495', '1962', '2340']
+Commodities numero: 2835
+['2340', '1962', '1495', '2550', '2494', '830', '8']
+Commodities numero: 2836
+['8', '830', '2494', '2550', '1495', '1962', '2340', '2125']
+Commodities numero: 2839
+['2125', '2340', '1962', '1495', '2550', '2494', '830', '8']
+Commodities numero: 2840
+['8', '830', '2494', '2550', '1495', '1962', '2386', '2135']
+Commodities numero: 2843
+['2135', '2386', '1962', '1495', '2550', '2494', '830', '8']
+Commodities numero: 2852
+['8', '830', '2494', '2550', '1495', '2335']
+Commodities numero: 2855
+['2335', '1495', '2550', '2494', '830', '8']
+Commodities numero: 2872
+['8', '830', '2494', '2550', '1495', '2316', '2315', '2314']
+Commodities numero: 2875
+['2314', '2315', '2316', '1495', '2550', '2494', '830', '8']
+Commodities numero: 2876
+['8', '830', '2494', '2550', '2554', '2341', '2318']
+Commodities numero: 2879
+['2318', '2341', '2554', '2550', '2494', '830', '8']
+Commodities numero: 2884
+['8', '830', '2494', '2550', '1495', '2335', '2325']
+Commodities numero: 2887
+['2325', '2335', '1495', '2550', '2494', '830', '8']
+Commodities numero: 2888
+['8', '830', '2494', '2550', '1495', '2335', '2325', '2560']
+Commodities numero: 2891
+['2560', '2325', '2335', '1495', '2550', '2494', '830', '8']
+Commodities numero: 2892
+['8', '830', '2494', '2550', '1495', '1962', '2326']
+Commodities numero: 2895
+['2326', '1962', '1495', '2550', '2494', '830', '8']
+Commodities numero: 2896
+['8', '830', '2494', '2550', '1495', '2358']
+Commodities numero: 2899
+['2358', '1495', '2550', '2494', '830', '8']
+Commodities numero: 2900
+['8', '830', '2494', '2550']
+Commodities numero: 2903
+['2550', '2494', '830', '8']
+Commodities numero: 2908
+['8', '830', '2494', '2550', '1495', '1962']
+Commodities numero: 2911
+['1962', '1495', '2550', '2494', '830', '8']
+Commodities numero: 2912
+['8', '830', '2494', '2550', '1495', '1962', '2317']
+Commodities numero: 2915
+['2317', '1962', '1495', '2550', '2494', '830', '8']
+Commodities numero: 2924
+['8', '830', '2494', '2550', '1495', '1962', '2386', '2135', '2134']
+Commodities numero: 2927
+['2134', '2135', '2386', '1962', '1495', '2550', '2494', '830', '8']
+Commodities numero: 2932
+['8', '830', '2494', '2550', '1495', '2359']
+Commodities numero: 2935
+['2359', '1495', '2550', '2494', '830', '8']
+Commodities numero: 2936
+['8', '830', '2494', '2550', '1495', '1962', '2386']
+Commodities numero: 2939
+['2386', '1962', '1495', '2550', '2494', '830', '8']
+Commodities numero: 2944
+['8', '830', '2494', '2550', '2554', '2341', '2555']
+Commodities numero: 2947
+['2555', '2341', '2554', '2550', '2494', '830', '8']
+Commodities numero: 2948
+['8', '830', '2494', '2550', '1495', '1962', '2340', '1498', '2383']
+Commodities numero: 2951
+['2383', '1498', '2340', '1962', '1495', '2550', '2494', '830', '8']
+Commodities numero: 2952
+['8', '830', '2494', '2550', '1495', '1962', '2340', '2442']
+Commodities numero: 2955
+['2442', '2340', '1962', '1495', '2550', '2494', '830', '8']
+Commodities numero: 2956
+['8', '830', '2494', '2550', '1495', '2316']
+Commodities numero: 2959
+['2316', '1495', '2550', '2494', '830', '8']
+Commodities numero: 2964
+['8', '830', '2494', '2550', '1495', '1962', '2326', '2415']
+Commodities numero: 2967
+['2415', '2326', '1962', '1495', '2550', '2494', '830', '8']
+Commodities numero: 2976
+['8', '830', '2494', '2550', '1495', '1962', '2340', '2442', '2441']
+Commodities numero: 2979
+['2441', '2442', '2340', '1962', '1495', '2550', '2494', '830', '8']
+Commodities numero: 2980
+['8', '830', '2494', '2550', '2554', '2341']
+Commodities numero: 2983
+['2341', '2554', '2550', '2494', '830', '8']
+Commodities numero: 2984
+['8', '830', '2494', '2550', '2554', '2341', '2318', '2130']
+Commodities numero: 2987
+['2130', '2318', '2341', '2554', '2550', '2494', '830', '8']
+Commodities numero: 2996
+['8', '830', '2494', '2550', '1495', '2316', '2315']
+Commodities numero: 2999
+['2315', '2316', '1495', '2550', '2494', '830', '8']
+Commodities numero: 3000
+['8', '830', '2494', '2550', '2554']
+Commodities numero: 3003
+['2554', '2550', '2494', '830', '8']
+Commodities numero: 3012
+['8', '216', '212', '202', '452']
+Commodities numero: 3015
+['452', '202', '212', '216', '8']
+Commodities numero: 3016
+['8', '47', '107', '512']
+Commodities numero: 3019
+['512', '107', '47', '8']
+Commodities numero: 3024
+['8', '939', '955', '940', '954', '944', '947']
+Commodities numero: 3025
+['8', '939', '955', '940', '954', '944', '947']
+Commodities numero: 3026
+['8', '939', '955', '940', '954', '944', '947']
+Commodities numero: 3027
+['947', '944', '954', '940', '955', '939', '8']
+Commodities numero: 3028
+['8', '1053', '1069']
+Commodities numero: 3029
+['8', '1053', '1069']
+Commodities numero: 3030
+['8', '1053', '1069']
+Commodities numero: 3031
+['1069', '1053', '8']
+Commodities numero: 3032
+['8', '1692', '1095', '1094', '1092']
+Commodities numero: 3033
+['8', '1692', '1095', '1094', '1092']
+Commodities numero: 3034
+['8', '1692', '1095', '1094', '1092']
+Commodities numero: 3035
+['1092', '1094', '1095', '1692', '8']
+Commodities numero: 3036
+['8', '147']
+Commodities numero: 3037
+['8', '147']
+Commodities numero: 3038
+['8', '147']
+Commodities numero: 3039
+['147', '8']
+Commodities numero: 3060
+['8', '354', '199', '971']
+Commodities numero: 3063
+['971', '199', '354', '8']
+Commodities numero: 3076
+['8', '2283', '1712', '449', '1131', '1132']
+Commodities numero: 3079
+['1132', '1131', '449', '1712', '2283', '8']
+Commodities numero: 3088
+['8', '350', '1353', '1345']
+Commodities numero: 3089
+['8', '350', '1353', '1345']
+Commodities numero: 3091
+['1345', '1353', '350', '8']
+Commodities numero: 3144
+['8', '1452', '979']
+Commodities numero: 3147
+['979', '1452', '8']
+Commodities numero: 3152
+['8', '350', '1353', '1347', '1355']
+Commodities numero: 3155
+['1355', '1347', '1353', '350', '8']
+Commodities numero: 3164
+['8', '1692', '1095', '1093']
+Commodities numero: 3165
+['8', '1692', '1095', '1093']
+Commodities numero: 3166
+['8', '1692', '1095', '1093']
+Commodities numero: 3167
+['1093', '1095', '1692', '8']
+Commodities numero: 3192
+['8', '4673', '309', '316', '889', '929']
+Commodities numero: 3195
+['929', '889', '316', '309', '4673', '8']
+Commodities numero: 3196
+['8', '435']
+Commodities numero: 3197
+['8', '435']
+Commodities numero: 3198
+['8', '435']
+Commodities numero: 3199
+['435', '8']
+Commodities numero: 3200
+['8', '4001', '4019', '3282', '3277', '3771', '2288']
+Commodities numero: 3203
+['2288', '3771', '3277', '3282', '4019', '4001', '8']
+Commodities numero: 3204
+['8', '216', '212', '202', '290']
+Commodities numero: 3207
+['290', '202', '212', '216', '8']
+Commodities numero: 3208
+['8', '435', '4394']
+Commodities numero: 3211
+['4394', '435', '8']
+Commodities numero: 3212
+['8', '172', '814']
+Commodities numero: 3215
+['814', '172', '8']
+Commodities numero: 3216
+['8', '47']
+Commodities numero: 3217
+['8', '47']
+Commodities numero: 3218
+['8', '47']
+Commodities numero: 3219
+['47', '8']
+Commodities numero: 3220
+['8', '598', '192', '423']
+Commodities numero: 3223
+['423', '192', '598', '8']
+Commodities numero: 3224
+['8', '4148', '145', '917', '1315', '914']
+Commodities numero: 3227
+['914', '1315', '917', '145', '4148', '8']
+Commodities numero: 3232
+['8', '124', '86', '353', '1460', '1458']
+Commodities numero: 3235
+['1458', '1460', '353', '86', '124', '8']
+Commodities numero: 3236
+['8', '354', '99', '500', '501', '4728']
+Commodities numero: 3239
+['4728', '501', '500', '99', '354', '8']
+Commodities numero: 3244
+['8', '650', '1666', '1705', '1665']
+Commodities numero: 3245
+['8', '650', '1666', '1705', '1665']
+Commodities numero: 3246
+['8', '650', '1666', '1705', '1665']
+Commodities numero: 3247
+['1665', '1705', '1666', '650', '8']
+Commodities numero: 3272
+['8', '1714', '1624']
+Commodities numero: 3273
+['8', '1714', '1624']
+Commodities numero: 3274
+['8', '1714', '1624']
+Commodities numero: 3275
+['1624', '1714', '8']
+Commodities numero: 3320
+['8', '116', '66', '102']
+Commodities numero: 3323
+['102', '66', '116', '8']
+Commodities numero: 3328
+['8', '1452', '978', '977', '976']
+Commodities numero: 3329
+['8', '1452', '978', '977', '976']
+Commodities numero: 3331
+['976', '977', '978', '1452', '8']
+Commodities numero: 3344
+['8', '216', '212', '202', '289']
+Commodities numero: 3347
+['289', '202', '212', '216', '8']
+Commodities numero: 3352
+['8', '598', '849']
+Commodities numero: 3353
+['8', '598', '849']
+Commodities numero: 3354
+['8', '598', '849']
+Commodities numero: 3355
+['849', '598', '8']
+Commodities numero: 3360
+['8', '347', '312', '716']
+Commodities numero: 3363
+['716', '312', '347', '8']
+Commodities numero: 3372
+['8', '523', '421', '856', '881']
+Commodities numero: 3373
+['8', '523', '421', '856', '881']
+Commodities numero: 3375
+['881', '856', '421', '523', '8']
+Commodities numero: 3444
+['8', '2018', '2045', '2020', '2049']
+Commodities numero: 3447
+['2049', '2020', '2045', '2018', '8']
+Commodities numero: 3448
+['8', '2018', '2045', '5042']
+Commodities numero: 3451
+['5042', '2045', '2018', '8']
+Commodities numero: 3460
+['8', '2018', '2045']
+Commodities numero: 3463
+['2045', '2018', '8']
+Commodities numero: 3472
+['8', '1537', '1434']
+Commodities numero: 3473
+['8', '1537', '1434']
+Commodities numero: 3474
+['8', '1537', '1434']
+Commodities numero: 3475
+['1434', '1537', '8']
+Commodities numero: 3476
+['8', '939', '955', '940', '954']
+Commodities numero: 3477
+['8', '939', '955', '940', '954']
+Commodities numero: 3479
+['954', '940', '955', '939', '8']
+Commodities numero: 3496
+['8', '4673', '309']
+Commodities numero: 3499
+['309', '4673', '8']
+Commodities numero: 3516
+['8', '47', '200']
+Commodities numero: 3519
+['200', '47', '8']
+Commodities numero: 3528
+['8', '216', '212', '202', '290', '432']
+Commodities numero: 3531
+['432', '290', '202', '212', '216', '8']
+Commodities numero: 3540
+['8', '116', '66', '102', '4337', '4322', '1459']
+Commodities numero: 3543
+['1459', '4322', '4337', '102', '66', '116', '8']
+Commodities numero: 3548
+['8', '598', '1934', '1399']
+Commodities numero: 3551
+['1399', '1934', '598', '8']
+Commodities numero: 3556
+['8', '830', '828', '479']
+Commodities numero: 3559
+['479', '828', '830', '8']
+Commodities numero: 3560
+['8', '1537', '57']
+Commodities numero: 3563
+['57', '1537', '8']
+Commodities numero: 3564
+['8', '1692', '1095', '1096', '1226']
+Commodities numero: 3565
+['8', '1692', '1095', '1096', '1226']
+Commodities numero: 3566
+['8', '1692', '1095', '1096', '1226']
+Commodities numero: 3567
+['1226', '1096', '1095', '1692', '8']
+Commodities numero: 3576
+['8', '366']
+Commodities numero: 3577
+['8', '366']
+Commodities numero: 3578
+['8', '366']
+Commodities numero: 3579
+['366', '8']
+Commodities numero: 3612
+['8', '523', '421', '856', '880', '879', '4252']
+Commodities numero: 3613
+['8', '523', '421', '856', '880', '879', '4252']
+Commodities numero: 3614
+['8', '523', '421', '856', '880', '879', '4252']
+Commodities numero: 3615
+['4252', '879', '880', '856', '421', '523', '8']
+Commodities numero: 3616
+['8', '47', '107', '4254']
+Commodities numero: 3619
+['4254', '107', '47', '8']
+Commodities numero: 3620
+['8', '47', '107', '386', '4261']
+Commodities numero: 3623
+['4261', '386', '107', '47', '8']
+Commodities numero: 3624
+['8', '47', '107', '386', '4267']
+Commodities numero: 3627
+['4267', '386', '107', '47', '8']
+Commodities numero: 3640
+['8', '116', '66', '102', '4337', '4322']
+Commodities numero: 3643
+['4322', '4337', '102', '66', '116', '8']
+Commodities numero: 3644
+['8', '116', '66', '102', '4337', '4322', '4331']
+Commodities numero: 3647
+['4331', '4322', '4337', '102', '66', '116', '8']
+Commodities numero: 3648
+['8', '116', '66', '102', '4337']
+Commodities numero: 3651
+['4337', '102', '66', '116', '8']
+Commodities numero: 3656
+['8', '523', '421', '856', '880', '1522', '2367']
+Commodities numero: 3657
+['8', '523', '421', '856', '880', '1522', '2367']
+Commodities numero: 3658
+['8', '523', '421', '856', '880', '1522', '2367']
+Commodities numero: 3659
+['2367', '1522', '880', '856', '421', '523', '8']
+Commodities numero: 3684
+['8', '47', '673']
+Commodities numero: 3687
+['673', '47', '8']
+Commodities numero: 3688
+['8', '598', '192', '565']
+Commodities numero: 3691
+['565', '192', '598', '8']
+Commodities numero: 3692
+['8', '47', '46', '85']
+Commodities numero: 3695
+['85', '46', '47', '8']
+Commodities numero: 3704
+['8', '4001', '4014']
+Commodities numero: 3707
+['4014', '4001', '8']
+Commodities numero: 3728
+['8', '4001', '4015', '3592', '3305', '3632']
+Commodities numero: 3731
+['3632', '3305', '3592', '4015', '4001', '8']
+Commodities numero: 3740
+['8', '366', '525']
+Commodities numero: 3743
+['525', '366', '8']
+Commodities numero: 3744
+['8', '1692', '1095']
+Commodities numero: 3745
+['8', '1692', '1095']
+Commodities numero: 3746
+['8', '1692', '1095']
+Commodities numero: 3747
+['1095', '1692', '8']
+Commodities numero: 3808
+['8', '346', '119', '157']
+Commodities numero: 3809
+['8', '346', '119', '157']
+Commodities numero: 3811
+['157', '119', '346', '8']
+Commodities numero: 3824
+['8', '4001', '4015', '3592']
+Commodities numero: 3827
+['3592', '4015', '4001', '8']
+Commodities numero: 3832
+['8', '4001', '4015']
+Commodities numero: 3835
+['4015', '4001', '8']
+Commodities numero: 3852
+['8', '4001', '4014', '3322', '3935']
+Commodities numero: 3855
+['3935', '3322', '4014', '4001', '8']
+Commodities numero: 3856
+['8', '4001', '4014', '3322']
+Commodities numero: 3859
+['3322', '4014', '4001', '8']
+Commodities numero: 3872
+['8', '124', '86']
+Commodities numero: 3875
+['86', '124', '8']
+Commodities numero: 3888
+['8', '4001', '4013', '3567']
+Commodities numero: 3891
+['3567', '4013', '4001', '8']
+Commodities numero: 3892
+['8', '4001', '4013']
+Commodities numero: 3895
+['4013', '4001', '8']
+Commodities numero: 3900
+['8', '354', '99', '1012']
+Commodities numero: 3903
+['1012', '99', '354', '8']
+Commodities numero: 3916
+['8', '4001', '4014', '3322', '3378']
+Commodities numero: 3919
+['3378', '3322', '4014', '4001', '8']
+Commodities numero: 3924
+['8', '1660', '1079', '1078', '1077']
+Commodities numero: 3927
+['1077', '1078', '1079', '1660', '8']
+Commodities numero: 3972
+['8', '216', '212']
+Commodities numero: 3975
+['212', '216', '8']
+Commodities numero: 3992
+['8', '1053', '1710']
+Commodities numero: 3993
+['8', '1053', '1710']
+Commodities numero: 3994
+['8', '1053', '1710']
+Commodities numero: 3995
+['1710', '1053', '8']
+Commodities numero: 3996
+['8', '34', '413']
+Commodities numero: 3997
+['8', '34', '413']
+Commodities numero: 3998
+['8', '34', '413']
+Commodities numero: 3999
+['413', '34', '8']
+Commodities numero: 4000
+['8', '4148', '145', '917', '1314']
+Commodities numero: 4003
+['1314', '917', '145', '4148', '8']
+Commodities numero: 4016
+['8', '834', '1009', '897', '898', '4666']
+Commodities numero: 4019
+['4666', '898', '897', '1009', '834', '8']
+Commodities numero: 4020
+['8', '834', '1009', '897', '898', '4666', '2376']
+Commodities numero: 4023
+['2376', '4666', '898', '897', '1009', '834', '8']
+Commodities numero: 4036
+['8', '366', '661']
+Commodities numero: 4039
+['661', '366', '8']
+Commodities numero: 4044
+['8', '456']
+Commodities numero: 4045
+['8', '456']
+Commodities numero: 4046
+['8', '456']
+Commodities numero: 4047
+['456', '8']
+Commodities numero: 4060
+['8', '456', '1059']
+Commodities numero: 4061
+['8', '456', '1059']
+Commodities numero: 4062
+['8', '456', '1059']
+Commodities numero: 4063
+['1059', '456', '8']
+Commodities numero: 4076
+['8', '939', '955', '940', '954', '944', '947', '948']
+Commodities numero: 4077
+['8', '939', '955', '940', '954', '944', '947', '948']
+Commodities numero: 4078
+['8', '939', '955', '940', '954', '944', '947', '948']
+Commodities numero: 4079
+['948', '947', '944', '954', '940', '955', '939', '8']
+Commodities numero: 4088
+['8', '2245']
+Commodities numero: 4089
+['8', '2245']
+Commodities numero: 4090
+['8', '2245']
+Commodities numero: 4091
+['2245', '8']
+Commodities numero: 4116
+['8', '781']
+Commodities numero: 4117
+['8', '781']
+Commodities numero: 4118
+['8', '781']
+Commodities numero: 4119
+['781', '8']
+Commodities numero: 4120
+['8', '650', '1666', '1705', '1665', '1668']
+Commodities numero: 4121
+['8', '650', '1666', '1705', '1665', '1668']
+Commodities numero: 4122
+['8', '650', '1666', '1705', '1665', '1668']
+Commodities numero: 4123
+['1668', '1665', '1705', '1666', '650', '8']
+Commodities numero: 4124
+['8', '47', '1021', '1020']
+Commodities numero: 4127
+['1020', '1021', '47', '8']
+Commodities numero: 4168
+['8', '63']
+Commodities numero: 4169
+['8', '63']
+Commodities numero: 4170
+['8', '63']
+Commodities numero: 4171
+['63', '8']
+Commodities numero: 4184
+['8', '598', '849', '850', '851']
+Commodities numero: 4187
+['851', '850', '849', '598', '8']
+Commodities numero: 4192
+['8', '718', '719']
+Commodities numero: 4195
+['719', '718', '8']
+Commodities numero: 4200
+['8', '34', '296', '341']
+Commodities numero: 4201
+['8', '34', '296', '341']
+Commodities numero: 4203
+['341', '296', '34', '8']
+Commodities numero: 4204
+['8', '1274']
+Commodities numero: 4205
+['8', '1274']
+Commodities numero: 4206
+['8', '1274']
+Commodities numero: 4207
+['1274', '8']
+Commodities numero: 4212
+['8', '34', '295']
+Commodities numero: 4213
+['8', '34', '295']
+Commodities numero: 4214
+['8', '34', '295']
+Commodities numero: 4215
+['295', '34', '8']
+Commodities numero: 4216
+['8', '834', '1009', '897']
+Commodities numero: 4219
+['897', '1009', '834', '8']
+Commodities numero: 4220
+['8', '124']
+Commodities numero: 4221
+['8', '124']
+Commodities numero: 4222
+['8', '124']
+Commodities numero: 4223
+['124', '8']
+Commodities numero: 4224
+['8', '523', '421']
+Commodities numero: 4225
+['8', '523', '421']
+Commodities numero: 4226
+['8', '523', '421']
+Commodities numero: 4227
+['421', '523', '8']
+Commodities numero: 4252
+['8', '47', '107', '512', '268']
+Commodities numero: 4255
+['268', '512', '107', '47', '8']
+Commodities numero: 4256
+['8', '358', '430', '360', '257']
+Commodities numero: 4259
+['257', '360', '430', '358', '8']
+Commodities numero: 4276
+['8', '34']
+Commodities numero: 4277
+['8', '34']
+Commodities numero: 4278
+['8', '34']
+Commodities numero: 4279
+['34', '8']
+Commodities numero: 4284
+['8', '598', '1934', '1206']
+Commodities numero: 4287
+['1206', '1934', '598', '8']
+Commodities numero: 4288
+['8', '350', '1353']
+Commodities numero: 4289
+['8', '350', '1353']
+Commodities numero: 4290
+['8', '350', '1353']
+Commodities numero: 4291
+['1353', '350', '8']
+Commodities numero: 4296
+['8', '523', '422']
+Commodities numero: 4297
+['8', '523', '422']
+Commodities numero: 4298
+['8', '523', '422']
+Commodities numero: 4299
+['422', '523', '8']
+Commodities numero: 4304
+['8', '523', '399', '444']
+Commodities numero: 4305
+['8', '523', '399', '444']
+Commodities numero: 4306
+['8', '523', '399', '444']
+Commodities numero: 4307
+['444', '399', '523', '8']
+Commodities numero: 4308
+['8', '4001', '4006']
+Commodities numero: 4311
+['4006', '4001', '8']
+Commodities numero: 4312
+['8', '4001', '4023', '2785', '3075', '3866']
+Commodities numero: 4315
+['3866', '3075', '2785', '4023', '4001', '8']
+Commodities numero: 4316
+['8', '438', '371', '3318']
+Commodities numero: 4317
+['8', '438', '371', '3318']
+Commodities numero: 4319
+['3318', '371', '438', '8']
+Commodities numero: 4332
+['8', '4001', '4019', '3282']
+Commodities numero: 4335
+['3282', '4019', '4001', '8']
+Commodities numero: 4340
+['8', '4001', '4019']
+Commodities numero: 4343
+['4019', '4001', '8']
+Commodities numero: 4344
+['8', '438', '371', '2793', '3090']
+Commodities numero: 4345
+['8', '438', '371', '2793', '3090']
+Commodities numero: 4347
+['3090', '2793', '371', '438', '8']
+Commodities numero: 4356
+['8', '4001', '4024', '3223']
+Commodities numero: 4359
+['3223', '4024', '4001', '8']
+Commodities numero: 4368
+['8', '438', '371', '3318', '3320']
+Commodities numero: 4369
+['8', '438', '371', '3318', '3320']
+Commodities numero: 4371
+['3320', '3318', '371', '438', '8']
+Commodities numero: 4372
+['8', '4001', '4008']
+Commodities numero: 4375
+['4008', '4001', '8']
+Commodities numero: 4376
+['8', '4001', '4023']
+Commodities numero: 4379
+['4023', '4001', '8']
+Commodities numero: 4380
+['8', '4001', '4024']
+Commodities numero: 4383
+['4024', '4001', '8']
+Commodities numero: 4384
+['8', '4001', '4023', '2785', '3075', '2947']
+Commodities numero: 4387
+['2947', '3075', '2785', '4023', '4001', '8']
+Commodities numero: 4388
+['8', '4001', '4023', '2785']
+Commodities numero: 4391
+['2785', '4023', '4001', '8']
+Commodities numero: 4396
+['8', '4001', '4023', '2785', '3075']
+Commodities numero: 4399
+['3075', '2785', '4023', '4001', '8']
+Commodities numero: 4400
+['8', '4001', '4019', '3282', '3277', '3771']
+Commodities numero: 4403
+['3771', '3277', '3282', '4019', '4001', '8']
+Commodities numero: 4428
+['8', '4001', '4019', '3282', '3277']
+Commodities numero: 4431
+['3277', '3282', '4019', '4001', '8']
+Commodities numero: 4432
+['8', '438', '371', '2793', '2794']
+Commodities numero: 4433
+['8', '438', '371', '2793', '2794']
+Commodities numero: 4435
+['2794', '2793', '371', '438', '8']
+Commodities numero: 4440
+['8', '4001', '4039', '2290', '3086', '2289']
+Commodities numero: 4443
+['2289', '3086', '2290', '4039', '4001', '8']
+Commodities numero: 4444
+['8', '438', '371', '2793']
+Commodities numero: 4445
+['8', '438', '371', '2793']
+Commodities numero: 4447
+['2793', '371', '438', '8']
+Commodities numero: 4456
+['8', '4001', '4024', '3223', '2943', '3087']
+Commodities numero: 4459
+['3087', '2943', '3223', '4024', '4001', '8']
+Commodities numero: 4468
+['8', '4001', '4023', '2785', '3075', '2980']
+Commodities numero: 4471
+['2980', '3075', '2785', '4023', '4001', '8']
+Commodities numero: 4472
+['8', '4001', '4023', '2785', '3075', '3301']
+Commodities numero: 4475
+['3301', '3075', '2785', '4023', '4001', '8']
+Commodities numero: 4484
+['8', '4001', '4024', '3223', '2943']
+Commodities numero: 4487
+['2943', '3223', '4024', '4001', '8']
+Commodities numero: 4512
+['8', '4001', '4002', '3296']
+Commodities numero: 4515
+['3296', '4002', '4001', '8']
+Commodities numero: 4516
+['8', '4001', '4002']
+Commodities numero: 4519
+['4002', '4001', '8']
+Commodities numero: 4520
+['8', '124', '86', '2921']
+Commodities numero: 4523
+['2921', '86', '124', '8']
+Commodities numero: 4532
+['8', '124', '2929']
+Commodities numero: 4533
+['8', '124', '2929']
+Commodities numero: 4534
+['8', '124', '2929']
+Commodities numero: 4535
+['2929', '124', '8']
+Commodities numero: 4544
+['8', '124', '567', '4547']
+Commodities numero: 4547
+['4547', '567', '124', '8']
+Commodities numero: 4552
+['8', '124', '86', '353', '1646', '1644']
+Commodities numero: 4555
+['1644', '1646', '353', '86', '124', '8']
+Commodities numero: 4564
+['8', '2046', '1969', '4853', '4852', '4806', '4844', '4898']
+Commodities numero: 4567
+['4898', '4844', '4806', '4852', '4853', '1969', '2046', '8']
+Commodities numero: 4580
+['8', '3422', '3386', '3387', '3397', '4694', '3508']
+Commodities numero: 4583
+['3508', '4694', '3397', '3387', '3386', '3422', '8']
+Commodities numero: 4584
+['8', '3422', '3386', '3387', '3397', '4694']
+Commodities numero: 4587
+['4694', '3397', '3387', '3386', '3422', '8']
+Commodities numero: 4588
+['8', '3422', '3386', '3387', '3397', '4694', '3417', '3596']
+Commodities numero: 4591
+['3596', '3417', '4694', '3397', '3387', '3386', '3422', '8']
+Commodities numero: 4596
+['8', '3611', '3414', '4079', '3477']
+Commodities numero: 4597
+['8', '3611', '3414', '4079', '3477']
+Commodities numero: 4598
+['8', '3611', '3414', '4079', '3477']
+Commodities numero: 4599
+['3477', '4079', '3414', '3611', '8']
+Commodities numero: 4604
+['8', '3611', '3414', '4727']
+Commodities numero: 4605
+['8', '3611', '3414', '4727']
+Commodities numero: 4606
+['8', '3611', '3414', '4727']
+Commodities numero: 4607
+['4727', '3414', '3611', '8']
+Commodities numero: 4608
+['8', '3611', '3414', '3470', '3493']
+Commodities numero: 4609
+['8', '3611', '3414', '3470', '3493']
+Commodities numero: 4611
+['3493', '3470', '3414', '3611', '8']
+Commodities numero: 4616
+['8', '3422', '3386', '3387', '3468', '3513', '4070']
+Commodities numero: 4619
+['4070', '3513', '3468', '3387', '3386', '3422', '8']
+Commodities numero: 4620
+['8', '3611', '3414', '4079']
+Commodities numero: 4621
+['8', '3611', '3414', '4079']
+Commodities numero: 4622
+['8', '3611', '3414', '4079']
+Commodities numero: 4623
+['4079', '3414', '3611', '8']
+Commodities numero: 4624
+['8', '3611', '3414', '4079', '3412']
+Commodities numero: 4625
+['8', '3611', '3414', '4079', '3412']
+Commodities numero: 4626
+['8', '3611', '3414', '4079', '3412']
+Commodities numero: 4627
+['3412', '4079', '3414', '3611', '8']
+Commodities numero: 4636
+['8', '3422', '3386', '3387', '3397', '4694', '3417']
+Commodities numero: 4639
+['3417', '4694', '3397', '3387', '3386', '3422', '8']
+Commodities numero: 4644
+['8', '3611', '3414', '4079', '3657']
+Commodities numero: 4645
+['8', '3611', '3414', '4079', '3657']
+Commodities numero: 4646
+['8', '3611', '3414', '4079', '3657']
+Commodities numero: 4647
+['3657', '4079', '3414', '3611', '8']
+Commodities numero: 4652
+['8', '3422', '3386', '3387', '3459']
+Commodities numero: 4655
+['3459', '3387', '3386', '3422', '8']
+Commodities numero: 4668
+['8', '3422', '3386', '3387', '3468', '3513']
+Commodities numero: 4671
+['3513', '3468', '3387', '3386', '3422', '8']
+Commodities numero: 4672
+['8', '3611', '3414', '4079', '3476']
+Commodities numero: 4673
+['8', '3611', '3414', '4079', '3476']
+Commodities numero: 4674
+['8', '3611', '3414', '4079', '3476']
+Commodities numero: 4675
+['3476', '4079', '3414', '3611', '8']
+Commodities numero: 4676
+['8', '3422', '3386', '3387', '3397', '4694', '3508', '4078']
+Commodities numero: 4679
+['4078', '3508', '4694', '3397', '3387', '3386', '3422', '8']
+Commodities numero: 4680
+['8', '3611', '3414', '3470', '3385', '3519']
+Commodities numero: 4681
+['8', '3611', '3414', '3470', '3385', '3519']
+Commodities numero: 4682
+['8', '3611', '3414', '3470', '3385', '3519']
+Commodities numero: 4683
+['3519', '3385', '3470', '3414', '3611', '8']
+Commodities numero: 4700
+['8', '3611']
+Commodities numero: 4701
+['8', '3611']
+Commodities numero: 4702
+['8', '3611']
+Commodities numero: 4703
+['3611', '8']
+Commodities numero: 4712
+['8', '3422', '3386', '3387', '3468', '3513', '3832']
+Commodities numero: 4715
+['3832', '3513', '3468', '3387', '3386', '3422', '8']
+Commodities numero: 4716
+['8', '3422', '3483']
+Commodities numero: 4717
+['8', '3422', '3483']
+Commodities numero: 4718
+['8', '3422', '3483']
+Commodities numero: 4719
+['3483', '3422', '8']
+Commodities numero: 4720
+['8', '3611', '3414', '3470', '3385']
+Commodities numero: 4721
+['8', '3611', '3414', '3470', '3385']
+Commodities numero: 4723
+['3385', '3470', '3414', '3611', '8']
+Commodities numero: 4740
+['8', '3611', '3414', '4079', '3476', '3687']
+Commodities numero: 4741
+['8', '3611', '3414', '4079', '3476', '3687']
+Commodities numero: 4742
+['8', '3611', '3414', '4079', '3476', '3687']
+Commodities numero: 4743
+['3687', '3476', '4079', '3414', '3611', '8']
+Commodities numero: 4744
+['8', '3422', '3386', '3387', '3529', '3392']
+Commodities numero: 4747
+['3392', '3529', '3387', '3386', '3422', '8']
+Commodities numero: 4748
+['8', '3611', '3414', '3470']
+Commodities numero: 4749
+['8', '3611', '3414', '3470']
+Commodities numero: 4751
+['3470', '3414', '3611', '8']
+Commodities numero: 4752
+['8', '3422', '3386', '3387', '3529', '3607']
+Commodities numero: 4755
+['3607', '3529', '3387', '3386', '3422', '8']
+Commodities numero: 4760
+['8', '3422', '3386', '3387', '3397']
+Commodities numero: 4763
+['3397', '3387', '3386', '3422', '8']
+Commodities numero: 4764
+['8', '3611', '3414', '3470', '3385', '3518']
+Commodities numero: 4765
+['8', '3611', '3414', '3470', '3385', '3518']
+Commodities numero: 4766
+['8', '3611', '3414', '3470', '3385', '3518']
+Commodities numero: 4767
+['3518', '3385', '3470', '3414', '3611', '8']
+Commodities numero: 4772
+['8', '3611', '3414']
+Commodities numero: 4773
+['8', '3611', '3414']
+Commodities numero: 4774
+['8', '3611', '3414']
+Commodities numero: 4775
+['3414', '3611', '8']
+Commodities numero: 4776
+['8', '3422', '3483', '3724']
+Commodities numero: 4777
+['8', '3422', '3483', '3724']
+Commodities numero: 4778
+['8', '3422', '3483', '3724']
+Commodities numero: 4779
+['3724', '3483', '3422', '8']
+Commodities numero: 4788
+['8', '3422', '3386', '3387']
+Commodities numero: 4791
+['3387', '3386', '3422', '8']
+Commodities numero: 4808
+['8', '3422', '3386', '3387', '3397', '4679', '5015']
+Commodities numero: 4811
+['5015', '4679', '3397', '3387', '3386', '3422', '8']
+Commodities numero: 4836
+['8', '3422', '3386', '3387', '3397', '4679']
+Commodities numero: 4839
+['4679', '3397', '3387', '3386', '3422', '8']
+Commodities numero: 4852
+['8', '3611', '3414', '3470', '3493', '3471', '3494']
+Commodities numero: 4855
+['3494', '3471', '3493', '3470', '3414', '3611', '8']
+Commodities numero: 4860
+['8', '3611', '3414', '3470', '3493', '3471']
+Commodities numero: 4861
+['8', '3611', '3414', '3470', '3493', '3471']
+Commodities numero: 4862
+['8', '3611', '3414', '3470', '3493', '3471']
+Commodities numero: 4863
+['3471', '3493', '3470', '3414', '3611', '8']
+Commodities numero: 4864
+['8', '3611', '3414', '4079', '4738']
+Commodities numero: 4865
+['8', '3611', '3414', '4079', '4738']
+Commodities numero: 4867
+['4738', '4079', '3414', '3611', '8']
+Commodities numero: 4880
+['8', '3611', '3414', '3470', '3479']
+Commodities numero: 4881
+['8', '3611', '3414', '3470', '3479']
+Commodities numero: 4883
+['3479', '3470', '3414', '3611', '8']
+Commodities numero: 4896
+['8', '3422', '3483', '3725']
+Commodities numero: 4899
+['3725', '3483', '3422', '8']
+Commodities numero: 4904
+['8', '3422', '3483', '3728']
+Commodities numero: 4905
+['8', '3422', '3483', '3728']
+Commodities numero: 4906
+['8', '3422', '3483', '3728']
+Commodities numero: 4907
+['3728', '3483', '3422', '8']
+Commodities numero: 4912
+['8', '3422', '3386', '3387', '3805']
+Commodities numero: 4915
+['3805', '3387', '3386', '3422', '8']
+Commodities numero: 4948
+['8', '354', '99', '464']
+Commodities numero: 4951
+['464', '99', '354', '8']
+Commodities numero: 4956
+['8', '438', '371']
+Commodities numero: 4957
+['8', '438', '371']
+Commodities numero: 4958
+['8', '438', '371']
+Commodities numero: 4959
+['371', '438', '8']
+Commodities numero: 4964
+['8', '1692', '1095', '1094', '1231', '1091']
+Commodities numero: 4965
+['8', '1692', '1095', '1094', '1231', '1091']
+Commodities numero: 4966
+['8', '1692', '1095', '1094', '1231', '1091']
+Commodities numero: 4967
+['1091', '1231', '1094', '1095', '1692', '8']
+Commodities numero: 4968
+['8', '346', '119', '641']
+Commodities numero: 4969
+['8', '346', '119', '641']
+Commodities numero: 4971
+['641', '119', '346', '8']
+Commodities numero: 4984
+['8', '1714', '1643']
+Commodities numero: 4985
+['8', '1714', '1643']
+Commodities numero: 4986
+['8', '1714', '1643']
+Commodities numero: 4987
+['1643', '1714', '8']
+Commodities numero: 4996
+['8', '1053']
+Commodities numero: 4997
+['8', '1053']
+Commodities numero: 4998
+['8', '1053']
+Commodities numero: 4999
+['1053', '8']
+Commodities numero: 5000
+['8', '456', '1059', '1061', '1063']
+Commodities numero: 5001
+['8', '456', '1059', '1061', '1063']
+Commodities numero: 5002
+['8', '456', '1059', '1061', '1063']
+Commodities numero: 5003
+['1063', '1061', '1059', '456', '8']
+Commodities numero: 5020
+['8', '1053', '1066']
+Commodities numero: 5021
+['8', '1053', '1066']
+Commodities numero: 5022
+['8', '1053', '1066']
+Commodities numero: 5023
+['1066', '1053', '8']
+Commodities numero: 5028
+['8', '523']
+Commodities numero: 5029
+['8', '523']
+Commodities numero: 5030
+['8', '523']
+Commodities numero: 5031
+['523', '8']
+Commodities numero: 5032
+['8', '523', '395']
+Commodities numero: 5035
+['395', '523', '8']
+Commodities numero: 5044
+['8', '438']
+Commodities numero: 5045
+['8', '438']
+Commodities numero: 5046
+['8', '438']
+Commodities numero: 5047
+['438', '8']
+Commodities numero: 5076
+['8', '354', '99']
+Commodities numero: 5079
+['99', '354', '8']
+Commodities numero: 5104
+['8', '1123']
+Commodities numero: 5105
+['8', '1123']
+Commodities numero: 5106
+['8', '1123']
+Commodities numero: 5107
+['1123', '8']
+Commodities numero: 5108
+['8', '1692', '1095', '1096']
+Commodities numero: 5109
+['8', '1692', '1095', '1096']
+Commodities numero: 5110
+['8', '1692', '1095', '1096']
+Commodities numero: 5111
+['1096', '1095', '1692', '8']
+Commodities numero: 5120
+['8', '354', '150', '223']
+Commodities numero: 5123
+['223', '150', '354', '8']
+Commodities numero: 5128
+['8', '124', '86', '353', '1460']
+Commodities numero: 5131
+['1460', '353', '86', '124', '8']
+Commodities numero: 5132
+['8', '47', '107', '386', '1397']
+Commodities numero: 5135
+['1397', '386', '107', '47', '8']
+Commodities numero: 5140
+['8', '598', '192', '365', '364', '362', '359']
+Commodities numero: 5143
+['359', '362', '364', '365', '192', '598', '8']
+Commodities numero: 5188
+['8', '4001', '4018']
+Commodities numero: 5191
+['4018', '4001', '8']
+Commodities numero: 5200
+['8', '4001', '4010']
+Commodities numero: 5203
+['4010', '4001', '8']
+Commodities numero: 5228
+['8', '4001', '4009', '2973']
+Commodities numero: 5231
+['2973', '4009', '4001', '8']
+Commodities numero: 5236
+['8', '4001', '4039', '2290', '3086']
+Commodities numero: 5239
+['3086', '2290', '4039', '4001', '8']
+Commodities numero: 5244
+['8', '4001', '4011']
+Commodities numero: 5247
+['4011', '4001', '8']
+Commodities numero: 5280
+['8', '4001', '4012', '3788']
+Commodities numero: 5283
+['3788', '4012', '4001', '8']
+Commodities numero: 5284
+['8', '354', '199']
+Commodities numero: 5287
+['199', '354', '8']
+Commodities numero: 5288
+['8', '4001', '4027']
+Commodities numero: 5291
+['4027', '4001', '8']
+Commodities numero: 5300
+['8', '939', '955', '940']
+Commodities numero: 5301
+['8', '939', '955', '940']
+Commodities numero: 5302
+['8', '939', '955', '940']
+Commodities numero: 5303
+['940', '955', '939', '8']
+Commodities numero: 5304
+['8', '4001', '4011', '3787']
+Commodities numero: 5307
+['3787', '4011', '4001', '8']
+Commodities numero: 5320
+['8', '1274', '162']
+Commodities numero: 5321
+['8', '1274', '162']
+Commodities numero: 5322
+['8', '1274', '162']
+Commodities numero: 5323
+['162', '1274', '8']
+Commodities numero: 5360
+['8', '4001', '4012']
+Commodities numero: 5363
+['4012', '4001', '8']
+Commodities numero: 5416
+['8', '4001', '4009']
+Commodities numero: 5419
+['4009', '4001', '8']
+Commodities numero: 5436
+['8', '523', '421', '2806']
+Commodities numero: 5437
+['8', '523', '421', '2806']
+Commodities numero: 5438
+['8', '523', '421', '2806']
+Commodities numero: 5439
+['2806', '421', '523', '8']
+Commodities numero: 5452
+['8', '4001', '4039', '2290']
+Commodities numero: 5455
+['2290', '4039', '4001', '8']
+Commodities numero: 5456
+['8', '4001', '4039']
+Commodities numero: 5459
+['4039', '4001', '8']
+Commodities numero: 5464
+['8', '939', '955']
+Commodities numero: 5465
+['8', '939', '955']
+Commodities numero: 5466
+['8', '939', '955']
+Commodities numero: 5467
+['955', '939', '8']
+Commodities numero: 5488
+['8', '1660', '1079', '1078', '2003', '2002']
+Commodities numero: 5489
+['8', '1660', '1079', '1078', '2003', '2002']
+Commodities numero: 5490
+['8', '1660', '1079', '1078', '2003', '2002']
+Commodities numero: 5491
+['2002', '2003', '1078', '1079', '1660', '8']
+Commodities numero: 5496
+['8', '1660', '1079', '1078', '2003', '2476', '1993']
+Commodities numero: 5499
+['1993', '2476', '2003', '1078', '1079', '1660', '8']
+Commodities numero: 5508
+['8', '1660', '1079', '1078', '2003', '2183']
+Commodities numero: 5511
+['2183', '2003', '1078', '1079', '1660', '8']
+Commodities numero: 5528
+['8', '1660', '1079', '1078', '2003', '2476']
+Commodities numero: 5529
+['8', '1660', '1079', '1078', '2003', '2476']
+Commodities numero: 5530
+['8', '1660', '1079', '1078', '2003', '2476']
+Commodities numero: 5531
+['2476', '2003', '1078', '1079', '1660', '8']
+Commodities numero: 5532
+['8', '1660', '1079', '1078', '2501', '2502']
+Commodities numero: 5533
+['8', '1660', '1079', '1078', '2501', '2502']
+Commodities numero: 5534
+['8', '1660', '1079', '1078', '2501', '2502']
+Commodities numero: 5535
+['2502', '2501', '1078', '1079', '1660', '8']
+Commodities numero: 5544
+['8', '1660', '1079', '1078', '2501']
+Commodities numero: 5545
+['8', '1660', '1079', '1078', '2501']
+Commodities numero: 5547
+['2501', '1078', '1079', '1660', '8']
+Commodities numero: 5552
+['8', '1660', '1079', '1078', '2003']
+Commodities numero: 5553
+['8', '1660', '1079', '1078', '2003']
+Commodities numero: 5555
+['2003', '1078', '1079', '1660', '8']
+Commodities numero: 5592
+['8', '1660', '1079', '1078', '1077', '2481']
+Commodities numero: 5595
+['2481', '1077', '1078', '1079', '1660', '8']
+Commodities numero: 5608
+['8', '1660', '1079', '1078', '2003', '2183', '1986']
+Commodities numero: 5611
+['1986', '2183', '2003', '1078', '1079', '1660', '8']
+Commodities numero: 5648
+['8', '366', '525', '3756', '3755']
+Commodities numero: 5651
+['3755', '3756', '525', '366', '8']
+Commodities numero: 5664
+['8', '4001', '4020']
+Commodities numero: 5667
+['4020', '4001', '8']
+Commodities numero: 5676
+['8', '47', '46', '675']
+Commodities numero: 5679
+['675', '46', '47', '8']
+Commodities numero: 5688
+['8', '4001', '4730']
+Commodities numero: 5691
+['4730', '4001', '8']
+Commodities numero: 5696
+['8', '4001', '3228', '3280']
+Commodities numero: 5699
+['3280', '3228', '4001', '8']
+Commodities numero: 5704
+['8', '4001', '4033']
+Commodities numero: 5707
+['4033', '4001', '8']
+Commodities numero: 5708
+['8', '4001', '3228']
+Commodities numero: 5711
+['3228', '4001', '8']
+Commodities numero: 5716
+['8', '4001', '4034']
+Commodities numero: 5719
+['4034', '4001', '8']
+Commodities numero: 5724
+['8', '4001', '3228', '3997']
+Commodities numero: 5727
+['3997', '3228', '4001', '8']
+Commodities numero: 5728
+['8', '4001', '3228', '3280', '3246']
+Commodities numero: 5731
+['3246', '3280', '3228', '4001', '8']
+Commodities numero: 5744
+['8', '650', '1666']
+Commodities numero: 5745
+['8', '650', '1666']
+Commodities numero: 5746
+['8', '650', '1666']
+Commodities numero: 5747
+['1666', '650', '8']
+Commodities numero: 5768
+['8', '4001', '3989']
+Commodities numero: 5771
+['3989', '4001', '8']
+Commodities numero: 5868
+['8', '1660', '1079']
+Commodities numero: 5869
+['8', '1660', '1079']
+Commodities numero: 5870
+['8', '1660', '1079']
+Commodities numero: 5871
+['1079', '1660', '8']
+Commodities numero: 5872
+['8', '3422', '3386', '3538']
+Commodities numero: 5873
+['8', '3422', '3386', '3538']
+Commodities numero: 5875
+['3538', '3386', '3422', '8']
+Commodities numero: 5876
+['8', '3422', '4067', '4766', '3707']
+Commodities numero: 5877
+['8', '3422', '4067', '4766', '3707']
+Commodities numero: 5878
+['8', '3422', '4067', '4766', '3707']
+Commodities numero: 5879
+['3707', '4766', '4067', '3422', '8']
+Commodities numero: 5880
+['8', '3422', '4067', '4766']
+Commodities numero: 5881
+['8', '3422', '4067', '4766']
+Commodities numero: 5882
+['8', '3422', '4067', '4766']
+Commodities numero: 5883
+['4766', '4067', '3422', '8']
+Commodities numero: 5892
+['8', '523', '421', '856', '880']
+Commodities numero: 5893
+['8', '523', '421', '856', '880']
+Commodities numero: 5895
+['880', '856', '421', '523', '8']
+Commodities numero: 5896
+['8', '598', '192', '1208', '1207']
+Commodities numero: 5899
+['1207', '1208', '192', '598', '8']
+Commodities numero: 5904
+['8', '650']
+Commodities numero: 5905
+['8', '650']
+Commodities numero: 5906
+['8', '650']
+Commodities numero: 5907
+['650', '8']
+Commodities numero: 5916
+['8', '347', '515']
+Commodities numero: 5919
+['515', '347', '8']
+Commodities numero: 5928
+['8', '1660', '1079', '2900']
+Commodities numero: 5929
+['8', '1660', '1079', '2900']
+Commodities numero: 5930
+['8', '1660', '1079', '2900']
+Commodities numero: 5931
+['2900', '1079', '1660', '8']
+Commodities numero: 5940
+['8', '1452']
+Commodities numero: 5941
+['8', '1452']
+Commodities numero: 5942
+['8', '1452']
+Commodities numero: 5943
+['1452', '8']
+Commodities numero: 5944
+['8', '124', '86', '353', '1460', '1458', '2691']
+Commodities numero: 5947
+['2691', '1458', '1460', '353', '86', '124', '8']
+Commodities numero: 5948
+['8', '124', '86', '353', '1460', '1458', '2691', '2692']
+Commodities numero: 5951
+['2692', '2691', '1458', '1460', '353', '86', '124', '8']
+Commodities numero: 5956
+['8', '124', '86', '353', '1460', '1463', '4463']
+Commodities numero: 5959
+['4463', '1463', '1460', '353', '86', '124', '8']
+Commodities numero: 5968
+['8', '124', '86', '353', '1460', '1463', '4720']
+Commodities numero: 5971
+['4720', '1463', '1460', '353', '86', '124', '8']
+Commodities numero: 5972
+['8', '1452', '978', '977']
+Commodities numero: 5973
+['8', '1452', '978', '977']
+Commodities numero: 5974
+['8', '1452', '978', '977']
+Commodities numero: 5975
+['977', '978', '1452', '8']
+Commodities numero: 5988
+['8', '598', '192', '365']
+Commodities numero: 5991
+['365', '192', '598', '8']
+Commodities numero: 5996
+['8', '1452', '979', '1453', '982', '1455', '1238', '1461', '1457', '1462', '4533']
+Commodities numero: 5999
+['4533', '1462', '1457', '1461', '1238', '1455', '982', '1453', '979', '1452', '8']
+Commodities numero: 6000
+['8', '124', '86', '353', '1460', '1463', '4463', '4543']
+Commodities numero: 6003
+['4543', '4463', '1463', '1460', '353', '86', '124', '8']
+Commodities numero: 6008
+['8', '523', '421', '856', '880', '879']
+Commodities numero: 6009
+['8', '523', '421', '856', '880', '879']
+Commodities numero: 6010
+['8', '523', '421', '856', '880', '879']
+Commodities numero: 6011
+['879', '880', '856', '421', '523', '8']
+Commodities numero: 6020
+['8', '116', '66', '166']
+Commodities numero: 6023
+['166', '66', '116', '8']
+Commodities numero: 6032
+['8', '1714', '1624', '1626']
+Commodities numero: 6033
+['8', '1714', '1624', '1626']
+Commodities numero: 6034
+['8', '1714', '1624', '1626']
+Commodities numero: 6035
+['1626', '1624', '1714', '8']
+Commodities numero: 6036
+['8', '1714', '1643', '1630', '1627']
+Commodities numero: 6037
+['8', '1714', '1643', '1630', '1627']
+Commodities numero: 6038
+['8', '1714', '1643', '1630', '1627']
+Commodities numero: 6039
+['1627', '1630', '1643', '1714', '8']
+Commodities numero: 6040
+['8', '1452', '978', '1456', '981', '980', '1454', '1451']
+Commodities numero: 6043
+['1451', '1454', '980', '981', '1456', '978', '1452', '8']
+Commodities numero: 6056
+['8', '124', '86', '353', '1649']
+Commodities numero: 6059
+['1649', '353', '86', '124', '8']
+Commodities numero: 6060
+['8', '34', '239']
+Commodities numero: 6061
+['8', '34', '239']
+Commodities numero: 6062
+['8', '34', '239']
+Commodities numero: 6063
+['239', '34', '8']
+Commodities numero: 6072
+['8', '358', '430']
+Commodities numero: 6073
+['8', '358', '430']
+Commodities numero: 6074
+['8', '358', '430']
+Commodities numero: 6075
+['430', '358', '8']
+Commodities numero: 6076
+['8', '124', '567']
+Commodities numero: 6079
+['567', '124', '8']
+Commodities numero: 6088
+['8', '346', '119', '641', '1193']
+Commodities numero: 6089
+['8', '346', '119', '641', '1193']
+Commodities numero: 6091
+['1193', '641', '119', '346', '8']
+Commodities numero: 6100
+['8', '523', '421', '856', '880', '1522']
+Commodities numero: 6101
+['8', '523', '421', '856', '880', '1522']
+Commodities numero: 6102
+['8', '523', '421', '856', '880', '1522']
+Commodities numero: 6103
+['1522', '880', '856', '421', '523', '8']
+Commodities numero: 6116
+['8', '4001', '4039', '2290', '873', '874']
+Commodities numero: 6119
+['874', '873', '2290', '4039', '4001', '8']
+Commodities numero: 6128
+['8', '354']
+Commodities numero: 6129
+['8', '354']
+Commodities numero: 6130
+['8', '354']
+Commodities numero: 6131
+['354', '8']
+Commodities numero: 6148
+['8', '892', '766']
+Commodities numero: 6149
+['8', '892', '766']
+Commodities numero: 6150
+['8', '892', '766']
+Commodities numero: 6151
+['766', '892', '8']
+Commodities numero: 6152
+['8', '1274', '162', '163', '652']
+Commodities numero: 6153
+['8', '1274', '162', '163', '652']
+Commodities numero: 6155
+['652', '163', '162', '1274', '8']
+Commodities numero: 6204
+['8', '354', '99', '263', '284']
+Commodities numero: 6207
+['284', '263', '99', '354', '8']
+Commodities numero: 6248
+['8', '1660', '1079', '1078']
+Commodities numero: 6249
+['8', '1660', '1079', '1078']
+Commodities numero: 6251
+['1078', '1079', '1660', '8']
+Commodities numero: 6256
+['8', '2283', '1712', '449']
+Commodities numero: 6257
+['8', '2283', '1712', '449']
+Commodities numero: 6259
+['449', '1712', '2283', '8']
+Commodities numero: 6260
+['8', '350', '1353', '1347', '1349', '1350']
+Commodities numero: 6261
+['8', '350', '1353', '1347', '1349', '1350']
+Commodities numero: 6262
+['8', '350', '1353', '1347', '1349', '1350']
+Commodities numero: 6263
+['1350', '1349', '1347', '1353', '350', '8']
+Commodities numero: 6264
+['8', '4715', '1922', '962', '839']
+Commodities numero: 6267
+['839', '962', '1922', '4715', '8']
+Commodities numero: 6276
+['8', '1452', '979', '1453', '982', '1455', '1238']
+Commodities numero: 6279
+['1238', '1455', '982', '1453', '979', '1452', '8']
+Commodities numero: 6280
+['8', '47', '46']
+Commodities numero: 6283
+['46', '47', '8']
+Commodities numero: 6304
+['8', '1274', '162', '163', '184']
+Commodities numero: 6305
+['8', '1274', '162', '163', '184']
+Commodities numero: 6307
+['184', '163', '162', '1274', '8']
+Commodities numero: 6312
+['8', '172']
+Commodities numero: 6313
+['8', '172']
+Commodities numero: 6314
+['8', '172']
+Commodities numero: 6315
+['172', '8']
+Commodities numero: 6328
+['8', '34', '296']
+Commodities numero: 6329
+['8', '34', '296']
+Commodities numero: 6330
+['8', '34', '296']
+Commodities numero: 6331
+['296', '34', '8']
+Commodities numero: 6336
+['8', '2283', '960', '485', '486']
+Commodities numero: 6339
+['486', '485', '960', '2283', '8']
+Commodities numero: 6348
+['8', '1452', '979', '1453', '982', '1455', '1238', '1461']
+Commodities numero: 6351
+['1461', '1238', '1455', '982', '1453', '979', '1452', '8']
+Commodities numero: 6360
+['8', '456', '1059', '1060']
+Commodities numero: 6361
+['8', '456', '1059', '1060']
+Commodities numero: 6362
+['8', '456', '1059', '1060']
+Commodities numero: 6363
+['1060', '1059', '456', '8']
+Commodities numero: 6368
+['8', '598']
+Commodities numero: 6369
+['8', '598']
+Commodities numero: 6370
+['8', '598']
+Commodities numero: 6371
+['598', '8']
+Commodities numero: 6372
+['8', '34', '296', '322']
+Commodities numero: 6373
+['8', '34', '296', '322']
+Commodities numero: 6375
+['322', '296', '34', '8']
+Commodities numero: 6376
+['8', '598', '1574']
+Commodities numero: 6379
+['1574', '598', '8']
+Commodities numero: 6380
+['8', '116', '66', '812']
+Commodities numero: 6383
+['812', '66', '116', '8']
+Commodities numero: 6392
+['8', '354', '150', '1926']
+Commodities numero: 6395
+['1926', '150', '354', '8']
+Commodities numero: 6408
+['8', '124', '86', '353']
+Commodities numero: 6411
+['353', '86', '124', '8']
+Commodities numero: 6424
+['8', '4153']
+Commodities numero: 6425
+['8', '4153']
+Commodities numero: 6426
+['8', '4153']
+Commodities numero: 6427
+['4153', '8']
+Commodities numero: 6432
+['8', '4001', '4039', '2290', '873']
+Commodities numero: 6435
+['873', '2290', '4039', '4001', '8']
+Commodities numero: 6440
+['8', '598', '192', '423', '425', '426']
+Commodities numero: 6443
+['426', '425', '423', '192', '598', '8']
+Commodities numero: 6448
+['8', '834', '2363', '2349']
+Commodities numero: 6451
+['2349', '2363', '834', '8']
+Commodities numero: 6460
+['8', '834', '2363', '2137', '2570', '2590']
+Commodities numero: 6463
+['2590', '2570', '2137', '2363', '834', '8']
+Commodities numero: 6484
+['8', '834']
+Commodities numero: 6485
+['8', '834']
+Commodities numero: 6486
+['8', '834']
+Commodities numero: 6487
+['834', '8']
+Commodities numero: 6504
+['8', '347', '312', '588']
+Commodities numero: 6507
+['588', '312', '347', '8']
+Commodities numero: 6520
+['8', '834', '1009', '897', '898', '4666', '2118']
+Commodities numero: 6523
+['2118', '4666', '898', '897', '1009', '834', '8']
+Commodities numero: 6528
+['8', '834', '2363', '2137']
+Commodities numero: 6531
+['2137', '2363', '834', '8']
+Commodities numero: 6536
+['8', '834', '2363']
+Commodities numero: 6539
+['2363', '834', '8']
+Commodities numero: 6548
+['8', '834', '2363', '2137', '2570']
+Commodities numero: 6551
+['2570', '2137', '2363', '834', '8']
+Commodities numero: 6568
+['8', '834', '2363', '2349', '2575']
+Commodities numero: 6571
+['2575', '2349', '2363', '834', '8']
+Commodities numero: 6584
+['8', '2283', '1712', '449', '1131']
+Commodities numero: 6587
+['1131', '449', '1712', '2283', '8']
+Commodities numero: 6604
+['8', '1452', '979', '1453', '982', '1455', '1238', '1461', '1457', '1462']
+Commodities numero: 6607
+['1462', '1457', '1461', '1238', '1455', '982', '1453', '979', '1452', '8']
+Commodities numero: 6688
+['8', '1714']
+Commodities numero: 6689
+['8', '1714']
+Commodities numero: 6690
+['8', '1714']
+Commodities numero: 6691
+['1714', '8']
+Commodities numero: 6696
+['8', '598', '849', '850']
+Commodities numero: 6697
+['8', '598', '849', '850']
+Commodities numero: 6699
+['850', '849', '598', '8']
+Commodities numero: 6796
+['8', '830', '2494']
+Commodities numero: 6799
+['2494', '830', '8']
+Commodities numero: 6856
+['8', '124', '86', '353', '1460', '1463']
+Commodities numero: 6859
+['1463', '1460', '353', '86', '124', '8']
+Commodities numero: 6864
+['8', '216', '212', '202', '203']
+Commodities numero: 6867
+['203', '202', '212', '216', '8']
+Commodities numero: 6872
+['8', '2046', '1969', '4853', '4852', '4841', '4831', '4811']
+Commodities numero: 6875
+['4811', '4831', '4841', '4852', '4853', '1969', '2046', '8']
+Commodities numero: 6876
+['8', '2046', '1969', '4853', '4852', '4806']
+Commodities numero: 6877
+['8', '2046', '1969', '4853', '4852', '4806']
+Commodities numero: 6878
+['8', '2046', '1969', '4853', '4852', '4806']
+Commodities numero: 6879
+['4806', '4852', '4853', '1969', '2046', '8']
+Commodities numero: 6880
+['8', '2046', '2026', '2167', '2397']
+Commodities numero: 6883
+['2397', '2167', '2026', '2046', '8']
+Commodities numero: 6884
+['8', '2046', '1969', '4853', '4852', '4841', '4831']
+Commodities numero: 6887
+['4831', '4841', '4852', '4853', '1969', '2046', '8']
+Commodities numero: 6888
+['8', '2046', '1969', '4853', '4852']
+Commodities numero: 6889
+['8', '2046', '1969', '4853', '4852']
+Commodities numero: 6891
+['4852', '4853', '1969', '2046', '8']
+Commodities numero: 6892
+['8', '2046', '1969']
+Commodities numero: 6893
+['8', '2046', '1969']
+Commodities numero: 6894
+['8', '2046', '1969']
+Commodities numero: 6895
+['1969', '2046', '8']
+Commodities numero: 6896
+['8', '2046', '1969', '4853', '4852', '4806', '4844']
+Commodities numero: 6899
+['4844', '4806', '4852', '4853', '1969', '2046', '8']
+Commodities numero: 6900
+['8', '2046', '1969', '4853']
+Commodities numero: 6901
+['8', '2046', '1969', '4853']
+Commodities numero: 6903
+['4853', '1969', '2046', '8']
+Commodities numero: 6904
+['8', '2046', '1969', '4853', '4852', '4841']
+Commodities numero: 6905
+['8', '2046', '1969', '4853', '4852', '4841']
+Commodities numero: 6906
+['8', '2046', '1969', '4853', '4852', '4841']
+Commodities numero: 6907
+['4841', '4852', '4853', '1969', '2046', '8']
+Commodities numero: 6908
+['8', '2046', '1969', '4853', '4852', '4841', '4846']
+Commodities numero: 6911
+['4846', '4841', '4852', '4853', '1969', '2046', '8']
+Commodities numero: 6948
+['8', '358']
+Commodities numero: 6949
+['8', '358']
+Commodities numero: 6950
+['8', '358']
+Commodities numero: 6951
+['358', '8']
+Commodities numero: 6960
+['8', '1274', '162', '4127']
+Commodities numero: 6961
+['8', '1274', '162', '4127']
+Commodities numero: 6962
+['8', '1274', '162', '4127']
+Commodities numero: 6963
+['4127', '162', '1274', '8']
+Commodities numero: 6968
+['8', '172', '3170']
+Commodities numero: 6969
+['8', '172', '3170']
+Commodities numero: 6970
+['8', '172', '3170']
+Commodities numero: 6971
+['3170', '172', '8']
+Commodities numero: 6980
+['8', '1714', '1643', '1630', '1627', '1556', '1557']
+Commodities numero: 6981
+['8', '1714', '1643', '1630', '1627', '1556', '1557']
+Commodities numero: 6982
+['8', '1714', '1643', '1630', '1627', '1556', '1557']
+Commodities numero: 6983
+['1557', '1556', '1627', '1630', '1643', '1714', '8']
+Commodities numero: 6988
+['8', '116', '66']
+Commodities numero: 6991
+['66', '116', '8']
+Commodities numero: 7004
+['8', '172', '4759']
+Commodities numero: 7007
+['4759', '172', '8']
+Commodities numero: 7008
+['8', '939']
+Commodities numero: 7009
+['8', '939']
+Commodities numero: 7010
+['8', '939']
+Commodities numero: 7011
+['939', '8']
+Commodities numero: 7016
+['8', '3422', '3386', '3387', '3529', '3807']
+Commodities numero: 7019
+['3807', '3529', '3387', '3386', '3422', '8']
+Commodities numero: 7032
+['8', '3422', '4067']
+Commodities numero: 7033
+['8', '3422', '4067']
+Commodities numero: 7034
+['8', '3422', '4067']
+Commodities numero: 7035
+['4067', '3422', '8']
+Commodities numero: 7036
+['8', '3422', '4755']
+Commodities numero: 7037
+['8', '3422', '4755']
+Commodities numero: 7038
+['8', '3422', '4755']
+Commodities numero: 7039
+['4755', '3422', '8']
+Commodities numero: 7044
+['8', '1452', '979', '1453', '982']
+Commodities numero: 7047
+['982', '1453', '979', '1452', '8']
+Commodities numero: 7060
+['8', '354', '150']
+Commodities numero: 7063
+['150', '354', '8']
+Commodities numero: 7064
+['8', '3422', '4067', '4765']
+Commodities numero: 7065
+['8', '3422', '4067', '4765']
+Commodities numero: 7066
+['8', '3422', '4067', '4765']
+Commodities numero: 7067
+['4765', '4067', '3422', '8']
+Commodities numero: 7080
+['8', '3422', '4067', '4766', '3707', '3712']
+Commodities numero: 7081
+['8', '3422', '4067', '4766', '3707', '3712']
+Commodities numero: 7082
+['8', '3422', '4067', '4766', '3707', '3712']
+Commodities numero: 7083
+['3712', '3707', '4766', '4067', '3422', '8']
+Commodities numero: 7084
+['8', '3422']
+Commodities numero: 7085
+['8', '3422']
+Commodities numero: 7086
+['8', '3422']
+Commodities numero: 7087
+['3422', '8']
+Commodities numero: 7092
+['8', '3422', '5048']
+Commodities numero: 7093
+['8', '3422', '5048']
+Commodities numero: 7094
+['8', '3422', '5048']
+Commodities numero: 7095
+['5048', '3422', '8']
+Commodities numero: 7096
+['8', '3422', '3386']
+Commodities numero: 7097
+['8', '3422', '3386']
+Commodities numero: 7098
+['8', '3422', '3386']
+Commodities numero: 7099
+['3386', '3422', '8']
+Commodities numero: 7108
+['8', '3422', '3386', '3387', '3529', '3411']
+Commodities numero: 7111
+['3411', '3529', '3387', '3386', '3422', '8']
+Commodities numero: 7112
+['8', '3422', '3386', '3387', '3529', '3411', '3810']
+Commodities numero: 7115
+['3810', '3411', '3529', '3387', '3386', '3422', '8']
+Commodities numero: 7116
+['8', '3422', '3386', '3387', '3468']
+Commodities numero: 7119
+['3468', '3387', '3386', '3422', '8']
+Commodities numero: 7120
+['8', '3422', '3386', '3387', '3529']
+Commodities numero: 7123
+['3529', '3387', '3386', '3422', '8']
+Commodities numero: 7128
+['8', '346', '119', '1153']
+Commodities numero: 7129
+['8', '346', '119', '1153']
+Commodities numero: 7131
+['1153', '119', '346', '8']
+Commodities numero: 7136
+['8', '4715', '1922']
+Commodities numero: 7137
+['8', '4715', '1922']
+Commodities numero: 7138
+['8', '4715', '1922']
+Commodities numero: 7139
+['1922', '4715', '8']
+Commodities numero: 7140
+['8', '4715']
+Commodities numero: 7141
+['8', '4715']
+Commodities numero: 7142
+['8', '4715']
+Commodities numero: 7143
+['4715', '8']
+Commodities numero: 7144
+['8', '598', '192', '1208', '1207', '1209']
+Commodities numero: 7147
+['1209', '1207', '1208', '192', '598', '8']
+Commodities numero: 7152
+['8', '47', '46', '85', '604']
+Commodities numero: 7155
+['604', '85', '46', '47', '8']
+Commodities numero: 7156
+['8', '598', '192', '565', '4488']
+Commodities numero: 7159
+['4488', '565', '192', '598', '8']
+Commodities numero: 7160
+['8', '598', '1934']
+Commodities numero: 7163
+['1934', '598', '8']
+Commodities numero: 7184
+['8', '350']
+Commodities numero: 7185
+['8', '350']
+Commodities numero: 7186
+['8', '350']
+Commodities numero: 7187
+['350', '8']
+Commodities numero: 7188
+['8', '347', '312']
+Commodities numero: 7191
+['312', '347', '8']
+Commodities numero: 7236
+['8', '47', '46', '634']
+Commodities numero: 7239
+['634', '46', '47', '8']
+Commodities numero: 7304
+['8', '1276']
+Commodities numero: 7305
+['8', '1276']
+Commodities numero: 7306
+['8', '1276']
+Commodities numero: 7307
+['1276', '8']
+Commodities numero: 7312
+['8', '1276', '4560']
+Commodities numero: 7315
+['4560', '1276', '8']
+Commodities numero: 7356
+['8', '4119']
+Commodities numero: 7357
+['8', '4119']
+Commodities numero: 7358
+['8', '4119']
+Commodities numero: 7359
+['4119', '8']
+Commodities numero: 7364
+['8', '2283', '1712', '449', '1131', '1132', '4150']
+Commodities numero: 7367
+['4150', '1132', '1131', '449', '1712', '2283', '8']
+Commodities numero: 7384
+['8', '2283', '1712', '2281']
+Commodities numero: 7385
+['8', '2283', '1712', '2281']
+Commodities numero: 7387
+['2281', '1712', '2283', '8']
+Commodities numero: 7388
+['8', '2283']
+Commodities numero: 7389
+['8', '2283']
+Commodities numero: 7390
+['8', '2283']
+Commodities numero: 7391
+['2283', '8']
+Commodities numero: 7412
+['8', '116']
+Commodities numero: 7413
+['8', '116']
+Commodities numero: 7414
+['8', '116']
+Commodities numero: 7415
+['116', '8']
+Commodities numero: 7420
+['8', '2283', '1712', '449', '4670']
+Commodities numero: 7423
+['4670', '449', '1712', '2283', '8']
+Commodities numero: 7428
+['8', '116', '66', '158']
+Commodities numero: 7431
+['158', '66', '116', '8']
+Commodities numero: 7432
+['8', '2283', '4714']
+Commodities numero: 7433
+['8', '2283', '4714']
+Commodities numero: 7434
+['8', '2283', '4714']
+Commodities numero: 7435
+['4714', '2283', '8']
+Commodities numero: 7440
+['8', '4148', '145', '917', '2741']
+Commodities numero: 7443
+['2741', '917', '145', '4148', '8']
+Commodities numero: 7460
+['8', '47', '46', '635']
+Commodities numero: 7463
+['635', '46', '47', '8']
+Commodities numero: 7500
+['8', '4148', '145', '917', '1314', '3036']
+Commodities numero: 7503
+['3036', '1314', '917', '145', '4148', '8']
+Commodities numero: 7508
+['8', '598', '192']
+Commodities numero: 7511
+['192', '598', '8']
+Commodities numero: 7532
+['8', '4148']
+Commodities numero: 7533
+['8', '4148']
+Commodities numero: 7534
+['8', '4148']
+Commodities numero: 7535
+['4148', '8']
+Commodities numero: 7544
+['8', '650', '1666', '1705']
+Commodities numero: 7545
+['8', '650', '1666', '1705']
+Commodities numero: 7546
+['8', '650', '1666', '1705']
+Commodities numero: 7547
+['1705', '1666', '650', '8']
+Commodities numero: 7556
+['8', '347', '312', '588', '589', '556']
+Commodities numero: 7559
+['556', '589', '588', '312', '347', '8']
+Commodities numero: 7568
+['8', '172', '3170', '344']
+Commodities numero: 7569
+['8', '172', '3170', '344']
+Commodities numero: 7571
+['344', '3170', '172', '8']
+Commodities numero: 7620
+['8', '34', '296', '78']
+Commodities numero: 7621
+['8', '34', '296', '78']
+Commodities numero: 7623
+['78', '296', '34', '8']
