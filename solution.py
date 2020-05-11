@@ -1,5 +1,4 @@
 import csv
-import os
 import networkx as nx
 
 G = nx.DiGraph()
@@ -10,7 +9,7 @@ comm = []
 # NODI
 # Parametro 1: ID nodo
 # Parametro 2: Nome nodo
-with open('./preSolve2/05_giorno_commodities.csv', newline='') as csvfile:
+with open('./preSolve2/05_giorno_topology.csv', newline='') as csvfile:
     topology = csv.reader(csvfile, delimiter=' ')
     for row in topology:
         G.add_node(row[0], name=row[1])
@@ -37,3 +36,6 @@ with open('./preSolve2/05_giorno_commodities.csv', newline='') as csvfile:
     for row in topology:
         comm.append(row)
 
+for row in comm:
+    Sk = nx.shortest_path(G, source=(row[0]), target=row[1])
+    print(Sk)
