@@ -1,0 +1,41 @@
+language: python
+
+os:
+- linux
+
+dist:
+- bionic # Ubuntu 18.04 LTS Bionic Beaver
+#- xenial # Ubuntu 16.04 LTS Xenial Xerus
+# (not avarable) Ubuntu 20.04 LTS Focal Fossa
+#- Precise # Ubuntu 12.04 LTS Precise Pangolin
+#- Trusty # Ubuntu 14.04 LTS Trusty Tahr
+# multi dist version: https://github.com/travis-ci/travis-rubies/blob/build/.travis.yml
+
+
+# cache:
+#   directories:
+#   - node_modules
+
+#before_install:
+#- npm install
+
+before_script:
+- pip -r requirements.txt
+
+script: # TODO: muovere in jobs
+- python3 solution.py
+
+#after_script:
+#- greenkeeper-lockfile-upload
+
+#after_success:
+#- npm run-script coveralls
+
+# env:
+#   global:
+#     - PIPPOzzo=no # fix windows
+
+notifications:
+  email:
+    on_success: never
+    on_failure: change
