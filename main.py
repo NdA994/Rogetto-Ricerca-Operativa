@@ -55,10 +55,13 @@ with open('./dati/05_giorno_commodities.csv', newline='') as csvfile:
 edge = [row + [0] for row in edge]
 
 if os.path.exists('./preSolve2/05_giorno_solution.csv'):
+    print("CANCELLATO ./preSolve2/05_giorno_solution.csv")
     os.remove('./preSolve2/05_giorno_solution.csv')
 if os.path.exists('./preSolve2/05_giorno_commodities.txt'):
+    print("CANCELLATO ./preSolve2/05_giorno_commodities.txt")
     os.remove('./preSolve2/05_giorno_commodities.txt')
 if os.path.exists('./preSolve2/05_giorno_topology.csv'):
+    print("CANCELLATO ./preSolve2/05_giorno_topology.csv")
     os.remove('./preSolve2/05_giorno_topology.csv')
 
 for row in pres:
