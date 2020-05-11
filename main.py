@@ -55,8 +55,8 @@ edge = [row + [0] for row in edge]
 
 if os.path.exists('./preSolve2/05_giorno_solution.csv'):
     os.remove('./preSolve2/05_giorno_solution.csv')
-if os.path.exists('./preSolve2/05_giorno_commodities.csv'):
-    os.remove('./preSolve2/05_giorno_commodities.csv')
+if os.path.exists('./preSolve2/05_giorno_commodities.txt'):
+    os.remove('./preSolve2/05_giorno_commodities.txt')
 
 for row in pres:
     comm[int(row[0])].clear()
@@ -72,6 +72,12 @@ with open('./preSolve2/05_giorno_solution.txt', 'w', newline='') as fSolution:
         fSolution.write("Commodities numero: " + row[0] + "\n")
         with open('./out2/' + row[0] + '.csv', newline='') as csvfile:
             route = csv.reader(csvfile, delimiter=' ')
-            for row in route:
-                fSolution.write(str(row) + "\n")
+            for path in route:
+                fSolution.write(str(path) + "\n")
+                for incr in range(len(path)-1):
+                    for count in range(len(edge)):
+                        if path[incr] == edge[count][0] and path[incr+1] == edge[count][1]:
+                            print(edge[count][0] + " " + edge[count][1])
+
+
 
