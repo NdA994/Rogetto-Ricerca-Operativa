@@ -20,7 +20,7 @@ dist:
 #- npm install
 
 before_script:
-- pip -r requirements.txt
+- pip install requirements.txt
 
 script: # TODO: muovere in jobs
 - python3 solution.py
