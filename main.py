@@ -21,7 +21,7 @@ with open('./out2/resPath.csv', newline='') as csvfile:
 # NODI
 # Parametro 1: ID nodo
 # Parametro 2: Nome nodo
-with open('./dati/05_giorno_commodities.csv', newline='') as csvfile:
+with open('./dati/05_giorno_sites.csv', newline='') as csvfile:
     topology = csv.reader(csvfile, delimiter=' ')
     for row in topology:
         G.add_node(row[0], name=row[1])
@@ -58,6 +58,8 @@ if os.path.exists('./preSolve2/05_giorno_solution.csv'):
     os.remove('./preSolve2/05_giorno_solution.csv')
 if os.path.exists('./preSolve2/05_giorno_commodities.txt'):
     os.remove('./preSolve2/05_giorno_commodities.txt')
+if os.path.exists('./preSolve2/05_giorno_topology.csv'):
+    os.remove('./preSolve2/05_giorno_topology.csv')
 
 for row in pres:
     comm[int(row[0])] = []

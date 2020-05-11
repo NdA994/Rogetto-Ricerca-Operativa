@@ -11,7 +11,7 @@ comm = []
 #NODI
 #Parametro 1: ID nodo
 #Parametro 2: Nome nodo
-with open('./dati/05_giorno_commodities.csv', newline='') as csvfile:
+with open('./dati/05_giorno_sites.csv', newline='') as csvfile:
     topology = csv.reader(csvfile, delimiter=' ')
     for row in topology:
         G.add_node(row[0], name=row[1])
