@@ -38,4 +38,11 @@ with open('./preSolve2/05_giorno_commodities.csv', newline='') as csvfile:
 
 for row in comm:
     Sk = nx.shortest_path(G, source=(row[0]), target=row[1])
-    print(Sk)
+    for incr in range(len(Sk)-1):
+        for count in range(len(edge)):
+            if Sk[incr] == edge[count][0] and Sk[incr+1] == edge[count][1]:
+                for elem in comm:
+                    edge[count][3] = edge[count][3] + row[3]
+    print(row)
+
+print(edge)
