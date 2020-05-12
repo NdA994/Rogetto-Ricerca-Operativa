@@ -23,7 +23,9 @@ before_script:
 - pip install -r requirements.txt
 
 script: # TODO: muovere in jobs
-- python3 solution.py
+- python3 presolve1.py
+- python3 presolve2.py
+#- python3 presolve3.py
 
 #after_script:
 #- greenkeeper-lockfile-upload
