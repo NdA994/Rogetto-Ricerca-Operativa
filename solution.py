@@ -39,16 +39,20 @@ with open('./dati/01_commodities.csv', newline='') as csvfile:
         comm.append(row)
         i = i + 1
 
+#print(len(comm))
 edge = [row + [0] for row in edge]
 
-print(comm)
-print(node)
-print(edge)
-
 for row in comm:
-    print(row[4])
+    #print(row[4])
     with open('./out1/'+str(row[4])+'.csv', newline='') as csvfile:
         path = csv.reader(csvfile, delimiter=' ')
         for elem in path:
-            print(elem)
-            break
+            #print(elem)
+            for incr in range(len(elem)-1):
+                #print(elem[incr])
+                for count in range(len(edge)):
+                    if elem[incr] == edge[count][0] and elem[incr+1] == edge[count][1]:
+                        edge[count][3] = edge[count][3] + int(comm[int(row[4])][2])
+
+for each in edge:
+    print(each)
