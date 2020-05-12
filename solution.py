@@ -54,5 +54,18 @@ for row in comm:
                     if elem[incr] == edge[count][0] and elem[incr+1] == edge[count][1]:
                         edge[count][3] = edge[count][3] + int(comm[int(row[4])][2])
 
+costo = 0
 for each in edge:
-    print(int(each[2])-each[3])
+    if each[3] < int(each[2])*0.8:
+        pass
+    elif each[3] < int(each[2]):
+        #print("CASO 2")
+        costo = each[3]/int(each[2])+costo
+    elif each[3] < int(each[2])*2.2:
+        #print("CASO 3")
+        costo = each[3]/int(each[2])+costo
+    elif each[3] < int(each[2])*3:
+        #print("CASO 4")
+        costo = each[3]/int(each[2])+costo
+
+print("costo: " + str(costo))
