@@ -55,4 +55,4 @@ for row in comm:
                         edge[count][3] = edge[count][3] + int(comm[int(row[4])][2])
 
 for each in edge:
-    print(each)
+    print(int(each[2])-each[3])
