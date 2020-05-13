@@ -68,6 +68,8 @@ for row in comm:
 for row in comm:
     #print(row[4])
     with open('./out1/'+str(row[4])+'.csv', newline='') as csvfile:
+        row_count = sum(1 for row in csvfile)
+    with open('./out1/'+str(row[4])+'.csv', newline='') as csvfile:
         path = csv.reader(csvfile, delimiter=' ')
         for elem in path:
             with open('./solve1/05_giorno_solution2.csv', 'a+', newline='') as fSolution:
@@ -78,21 +80,25 @@ for row in comm:
                 for count in range(len(edge)):
                     if elem[incr] == edge[count][0] and elem[incr+1] == edge[count][1]:
                         edge[count][3] = int(edge[count][3]) + int(com2[int(row[4])][2])
+                        if int(edge[count][3]) > int(edge[count][2]):
                         #print(int(com2[int(row[4])][2]))
                         #print(elem[incr] + " " + elem[incr+1])
+                            print("sforato")
+                            break
+
             #print(elem)
             break
-
+'''
 costo = 0
 for each in edge:
     if int(each[3]) < int(each[2])*0.8:
         pass
     elif int(each[3]) < int(each[2]):
         costo = (each[3]/int(each[2]))*10+costo
-        #print(costo)
+        print(costo)
     elif int(each[3]) < int(each[2])*2.2:
         costo = (int(each[3])/int(each[2]))*100+costo
-        #print(costo)
+        print(costo)
     elif int(each[3]) < int(each[2])*3:
         costo = (each[3]/int(each[2]))*1000+costo
         print(each)
@@ -101,3 +107,4 @@ for each in edge:
         print(each)
 
 print("costo: " + str(costo))
+'''
