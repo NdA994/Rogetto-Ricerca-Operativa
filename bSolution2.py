@@ -1,6 +1,7 @@
 import csv
 import os
 
+
 import networkx as nx
 
 G = nx.DiGraph()
@@ -45,6 +46,7 @@ with open('./preSolve2/05_giorno_commodities.csv', newline='') as csvfile:
         comm.append(row)
 
 j = 0
+
 with open('./dati/05_giorno_commodities.csv', newline='') as csvfile:
     topology = csv.reader(csvfile, delimiter=' ')
     for row in topology:
@@ -59,7 +61,9 @@ i = 0
 for row in edge:
     row[4] = i
     i = i+1
-
+'''
+costo = -6000
+'''
 i = 0
 for row in comm:
     row[4] = i
@@ -92,7 +96,7 @@ for row in comm:
                             #print(int(com2[int(row[4])][2]))
                             #print(elem[incr] + " " + elem[incr+1])
                             solT = True
-                            print("sforato")
+                            #print("sforato")
                             break
                 if solT == True:
                     inc = inc+1
@@ -109,21 +113,21 @@ for row in comm:
             #print(elem)
 
 
-costo = 0
+
 for each in edge:
     if int(each[3]) < int(each[2])*0.8:
         pass
     elif int(each[3]) < int(each[2]):
         costo = (each[3]/int(each[2]))*10+costo
-        print(costo)
+        #print(costo)
     elif int(each[3]) < int(each[2])*2.2:
         costo = (int(each[3])/int(each[2]))*100+costo
-        print(costo)
+        #print(costo)
     elif int(each[3]) < int(each[2])*3:
-        #costo = (each[3]/int(each[2]))*1000+costo
-        print(each)
+        costo = (each[3]/int(each[2]))*1000+costo
+        #print(each)
     else:
-        #costo = (each[3]/int(each[2]))*10000+costo
-        print(each)
+        costo = (each[3]/int(each[2]))*10000+costo
+        #print(each)
 
 print("costo: " + str(costo))
