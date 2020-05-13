@@ -65,30 +65,37 @@ for row in comm:
     row[4] = i
     i = i+1
 
+solT = False
+
+
 for row in comm:
-    #print(row[4])
+    print(row[4])
     with open('./out1/'+str(row[4])+'.csv', newline='') as csvfile:
         row_count = sum(1 for row in csvfile)
     with open('./out1/'+str(row[4])+'.csv', newline='') as csvfile:
         path = csv.reader(csvfile, delimiter=' ')
         for elem in path:
-            with open('./solve1/05_giorno_solution2.csv', 'a+', newline='') as fSolution:
-                fSolution.write("Commodities numero: " + str(row[4]) + "\n")
-                resPath = csv.writer(fSolution, delimiter=' ', quoting=csv.QUOTE_MINIMAL)
-                resPath.writerow(elem)
+            edgeTemp = [x[:] for x in edge]
+            print(elem)
+            #edgeTemp = edge.copy()
             for incr in range(len(elem)-1):
-                for count in range(len(edge)):
-                    if elem[incr] == edge[count][0] and elem[incr+1] == edge[count][1]:
-                        edge[count][3] = int(edge[count][3]) + int(com2[int(row[4])][2])
-                        if int(edge[count][3]) > int(edge[count][2]):
-                        #print(int(com2[int(row[4])][2]))
-                        #print(elem[incr] + " " + elem[incr+1])
+                for count in range(len(edgeTemp)):
+                    if elem[incr] == edgeTemp[count][0] and elem[incr+1] == edgeTemp[count][1]:
+                        edgeTemp[count][3] = int(edgeTemp[count][3]) + int(com2[int(row[4])][2])
+                        if int(edgeTemp[count][3]) > int(edgeTemp[count][2]):
+                            #print(int(com2[int(row[4])][2]))
+                            #print(elem[incr] + " " + elem[incr+1])
                             print("sforato")
-                            break
-
+            if solT == False:
+                with open('./solve1/05_giorno_solution2.csv', 'a+', newline='') as fSolution:
+                    fSolution.write("Commodities numero: " + str(row[4]) + "\n")
+                    resPath = csv.writer(fSolution, delimiter=' ', quoting=csv.QUOTE_MINIMAL)
+                    resPath.writerow(elem)
+                    edge = [x[:] for x in edgeTemp]
+                break
             #print(elem)
-            break
-'''
+
+
 costo = 0
 for each in edge:
     if int(each[3]) < int(each[2])*0.8:
@@ -107,4 +114,3 @@ for each in edge:
         print(each)
 
 print("costo: " + str(costo))
-'''
