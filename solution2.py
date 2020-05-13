@@ -2,9 +2,11 @@ import csv
 import networkx as nx
 
 G = nx.DiGraph()
+dEdg = {}
 node = []
 edge = []
 comm = []
+com2 = []
 
 # NODI
 # Parametro 1: ID nodo
@@ -31,16 +33,32 @@ with open('./preSolve2/05_giorno_topology.csv', newline='') as csvfile:
 # Parametro 3: Banda richiesta
 # Parametro 4: Priotrità
 # Parametro 5: ID Commodities
-i = 0
 with open('./preSolve2/05_giorno_commodities.csv', newline='') as csvfile:
     topology = csv.reader(csvfile, delimiter=' ')
     for row in topology:
-        row[4] = i
+        #row[4] = i
         comm.append(row)
-        i = i + 1
+        #i = i + 1
+
+j=0
+with open('./dati/05_giorno_commodities.csv', newline='') as csvfile:
+    topology = csv.reader(csvfile, delimiter=' ')
+    for row in topology:
+        row[4] = j
+        com2.append(row)
+        j = j+1
 
 #print(len(comm))
-#edge = [row + [0] for row in edge]
+edge = [row + [0] for row in edge]
+
+i = 0
+for row in edge:
+    row[4] = i
+    i = i+1
+
+for row in com2:
+    print(row)
+
 
 for row in comm:
     print(row[4])
@@ -52,11 +70,11 @@ for row in comm:
                 #print(elem[incr])
                 for count in range(len(edge)):
                     if elem[incr] == edge[count][0] and elem[incr+1] == edge[count][1]:
-                        edge[count][3] = int(edge[count][3]) + int(comm[int(row[4])][2])
+                        edge[count][3] = int(edge[count][3]) + int(com2[int(row[4])][2])
+
 
 for row in edge:
     print(row)
-
 
 costo = 0
 for each in edge:
