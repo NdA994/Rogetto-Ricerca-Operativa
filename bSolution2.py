@@ -75,8 +75,8 @@ for row in comm:
         print(row_count)
     with open('./out1/'+str(row[4])+'.csv', newline='') as csvfile:
         path = csv.reader(csvfile, delimiter=' ')
+        inc = 1
         for elem in path:
-            inc = 1
             edgeTemp = [x[:] for x in edge]
             solT = False
             print(elem)
