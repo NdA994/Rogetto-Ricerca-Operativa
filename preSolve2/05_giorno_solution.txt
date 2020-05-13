@@ -3348,3 +3348,5 @@ Commodities numero: 7621
 ['8', '34', '296', '78']
 Commodities numero: 7623
 ['78', '296', '34', '8']
+
+costo: 6657.988
