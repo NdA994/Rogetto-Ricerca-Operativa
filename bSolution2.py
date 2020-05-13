@@ -1,4 +1,6 @@
 import csv
+import os
+
 import networkx as nx
 
 G = nx.DiGraph()
@@ -8,10 +10,14 @@ edge = []
 comm = []
 com2 = []
 
+if os.path.exists('./solve1/05_giorno_solution2.csv'):
+    print("CANCELLATO ./solve1/05_giorno_solution2.csv")
+    os.remove('./solve1/05_giorno_solution2.csv')
+
 # NODI
 # Parametro 1: ID nodo
 # Parametro 2: Nome nodo
-with open('./dati/05_giorno_sites.csv', newline='') as csvfile:
+with open('./dati/01_sites.csv', newline='') as csvfile:
     topology = csv.reader(csvfile, delimiter=' ')
     for row in topology:
         G.add_node(row[0], name=row[1])
@@ -21,7 +27,7 @@ with open('./dati/05_giorno_sites.csv', newline='') as csvfile:
 # Parametro 1: ID nodo sorgente
 # Parametro 2: ID nodo destinazione
 # Parametro 3: Capacità arco
-with open('./preSolve2/05_giorno_topology.csv', newline='') as csvfile:
+with open('./dati/01_topology.csv', newline='') as csvfile:
     topology = csv.reader(csvfile, delimiter=' ')
     for row in topology:
         G.add_edge(row[0], row[1], cap=int(row[2]))
@@ -33,13 +39,13 @@ with open('./preSolve2/05_giorno_topology.csv', newline='') as csvfile:
 # Parametro 3: Banda richiesta
 # Parametro 4: Priotrità
 # Parametro 5: ID Commodities
-with open('./preSolve2/05_giorno_commodities.csv', newline='') as csvfile:
+with open('./dati/01_commodities.csv', newline='') as csvfile:
     topology = csv.reader(csvfile, delimiter=' ')
     for row in topology:
         comm.append(row)
 
 j = 0
-with open('./dati/05_giorno_commodities.csv', newline='') as csvfile:
+with open('./dati/01_commodities.csv', newline='') as csvfile:
     topology = csv.reader(csvfile, delimiter=' ')
     for row in topology:
         row[4] = j
@@ -47,21 +53,34 @@ with open('./dati/05_giorno_commodities.csv', newline='') as csvfile:
         j = j+1
 
 edge = [row + [0] for row in edge]
+edge = [row + [0] for row in edge]
 
 i = 0
 for row in edge:
     row[4] = i
     i = i+1
 
+i = 0
 for row in comm:
-    print(row[4])
-    with open('./out2/'+str(row[4])+'.csv', newline='') as csvfile:
+    row[4] = i
+    i = i+1
+
+for row in comm:
+    #print(row[4])
+    with open('./out1/'+str(row[4])+'.csv', newline='') as csvfile:
         path = csv.reader(csvfile, delimiter=' ')
         for elem in path:
+            with open('./solve1/05_giorno_solution2.csv', 'a+', newline='') as fSolution:
+                fSolution.write("Commodities numero: " + str(row[4]) + "\n")
+                resPath = csv.writer(fSolution, delimiter=' ', quoting=csv.QUOTE_MINIMAL)
+                resPath.writerow(elem)
             for incr in range(len(elem)-1):
                 for count in range(len(edge)):
                     if elem[incr] == edge[count][0] and elem[incr+1] == edge[count][1]:
                         edge[count][3] = int(edge[count][3]) + int(com2[int(row[4])][2])
+                        #print(int(com2[int(row[4])][2]))
+                        #print(elem[incr] + " " + elem[incr+1])
+            #print(elem)
             break
 
 costo = 0
@@ -70,14 +89,15 @@ for each in edge:
         pass
     elif int(each[3]) < int(each[2]):
         costo = (each[3]/int(each[2]))*10+costo
-        print(costo)
+        #print(costo)
     elif int(each[3]) < int(each[2])*2.2:
-        costo = (each[3]/int(each[2]))*100+costo
-        print(costo)
+        costo = (int(each[3])/int(each[2]))*100+costo
+        #print(costo)
     elif int(each[3]) < int(each[2])*3:
         costo = (each[3]/int(each[2]))*1000+costo
-        print(costo)
+        print(each)
     else:
         costo = (each[3]/int(each[2]))*10000+costo
+        print(each)
 
 print("costo: " + str(costo))
