@@ -72,12 +72,14 @@ for row in comm:
     print(row[4])
     with open('./out1/'+str(row[4])+'.csv', newline='') as csvfile:
         row_count = sum(1 for row in csvfile)
+        print(row_count)
     with open('./out1/'+str(row[4])+'.csv', newline='') as csvfile:
         path = csv.reader(csvfile, delimiter=' ')
         for elem in path:
+            inc = 1
             edgeTemp = [x[:] for x in edge]
+            solT = False
             print(elem)
-            #edgeTemp = edge.copy()
             for incr in range(len(elem)-1):
                 for count in range(len(edgeTemp)):
                     if elem[incr] == edgeTemp[count][0] and elem[incr+1] == edgeTemp[count][1]:
@@ -85,8 +87,14 @@ for row in comm:
                         if int(edgeTemp[count][3]) > int(edgeTemp[count][2]):
                             #print(int(com2[int(row[4])][2]))
                             #print(elem[incr] + " " + elem[incr+1])
+                            solT = True
                             print("sforato")
-            if solT == False:
+                            break
+                if solT == True:
+                    edgeTemp = [x[:] for x in edge]
+                    inc = inc+1
+                    break
+            if solT == False or inc == row_count:
                 with open('./solve1/05_giorno_solution2.csv', 'a+', newline='') as fSolution:
                     fSolution.write("Commodities numero: " + str(row[4]) + "\n")
                     resPath = csv.writer(fSolution, delimiter=' ', quoting=csv.QUOTE_MINIMAL)
