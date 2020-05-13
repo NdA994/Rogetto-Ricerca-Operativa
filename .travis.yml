@@ -27,7 +27,7 @@ script: # TODO: muovere in jobs
 - python3 presolve1.py
 - python3 presolve2.py
 #- python3 presolve3.py
-- python3 bSolution2.py
+- python3 bSolution.py
 
 #after_script:
 #- greenkeeper-lockfile-upload
