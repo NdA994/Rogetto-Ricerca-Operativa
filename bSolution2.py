@@ -91,8 +91,9 @@ for row in comm:
                             print("sforato")
                             break
                 if solT == True:
-                    edgeTemp = [x[:] for x in edge]
                     inc = inc+1
+                    if inc != row_count:
+                        edgeTemp = [x[:] for x in edge]
                     break
             if solT == False or inc == row_count:
                 with open('./solve1/05_giorno_solution2.csv', 'a+', newline='') as fSolution:
