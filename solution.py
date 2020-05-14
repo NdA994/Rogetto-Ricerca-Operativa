@@ -14,7 +14,7 @@ with open('./dati/01_sites.csv', newline='') as csvfile:
     for row in topology:
         G.add_node(row[0], name=row[1])
         node.append(row)
-
+costo = 300
 # ARCHI
 # Parametro 1: ID nodo sorgente
 # Parametro 2: ID nodo destinazione
@@ -42,19 +42,25 @@ with open('./dati/01_commodities.csv', newline='') as csvfile:
 #print(len(comm))
 edge = [row + [0] for row in edge]
 
+print(comm)
+
 for row in comm:
-    #print(row[4])
+    print(row[4])
     with open('./out1/'+str(row[4])+'.csv', newline='') as csvfile:
         path = csv.reader(csvfile, delimiter=' ')
         for elem in path:
-            #print(elem)
+            print(elem)
             for incr in range(len(elem)-1):
-                #print(elem[incr])
                 for count in range(len(edge)):
                     if elem[incr] == edge[count][0] and elem[incr+1] == edge[count][1]:
-                        edge[count][3] = edge[count][3] + int(comm[int(row[4])][2])
+                        edge[count][3] = int(edge[count][3]) + int(comm[int(row[4])][2])
+                        print(comm[int(row[4])][2])
+                        if int(edge[count][3]) > int(edge[count][2]):
+                            print("sforato")
+            break
 
-costo = 0
+
+
 for each in edge:
     if each[3] < int(each[2])*0.8:
         pass
