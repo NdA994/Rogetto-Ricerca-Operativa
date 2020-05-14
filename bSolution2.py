@@ -62,7 +62,6 @@ for row in edge:
     row[4] = i
     i = i+1
 '''
-costo = -6000
 '''
 i = 0
 for row in comm:
